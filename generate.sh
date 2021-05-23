@@ -1,8 +1,10 @@
 #!/bin/bash
 
 TRACKER_LIST_URL=https://reports.exodus-privacy.eu.org/en/trackers/
+OUTPUT_PATH=./list/exodus-pihole.txt
+NO_COMMENT_PATH=./list/exodus-pihole.no-comment.txt
 
-echo "# Generated on `date +'%D %T'`"
+echo "# Generated on `date +'%D %T'`" > $OUTPUT_PATH
 
 for tracker in `curl -s "$TRACKER_LIST_URL" | grep -E "/en/trackers/[0-9]{1,}/" | cut -d '/' -f4`
 do
@@ -21,4 +23,6 @@ do
 	done
 
 	sleep 1
-done
+done >> $OUTPUT_PATH
+
+cat $OUTPUT_PATH | grep -v "#" > $NO_COMMENT_PATH
