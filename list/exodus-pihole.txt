@@ -1,1161 +1,969 @@
-# Generated on 05/22/21 18:16:31
-# https://reports.exodus-privacy.eu.org/en/trackers/323/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/326/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/324/
+# Generated on 06/06/21 10:50:50
+# 360Dialog
+# 39Geopla
+# 3bitter Beacon
+# ABTasty
 abtasty\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/91/
-graph\.accountkit\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/325/
-acrcloud.com
-hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-# https://reports.exodus-privacy.eu.org/en/trackers/327/
-actv8technologies\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/386/
-frm\.acuant\.net
-medicscan\.acuant\.net
-services\.assureid\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/4/
-a4\.tl
-accengage\.com
-ad4push\.com
-ad4screen\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/272/
-ads\.adadapted\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/256/
-ad-brix\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/216/
-sdk\.adbuddiz\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/274/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/359/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/90/
-adc3-launch\.adcolony\.com
-adcolony\.com
-ads30\.adcolony\.com
-androidads20\.adcolony\.com
-androidads21\.adcolony\.com
-androidads23\.adcolony\.com
-events3alt\.adcolony\.com
-wd\.adcolony\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/36/
-aatkit\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/295/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/156/
-analytics\.ad\.daum\.net
-statistics\.videofarm\.daum\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/157/
-adform\.com
-adformdsp\.net
-adx\.adform\.net
-files\.adform\.net
-track\.adform\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/158/
-adfurikun\.jp
-ginf\.adfurikun\.jp
-# https://reports.exodus-privacy.eu.org/en/trackers/365/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/165/
-sdk\.adincube\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/366/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/52/
-adj\.st
-adjust\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/177/
+# ACRA
+# ACRCloud
+acrcloud.com|hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
+# ADLIB
 adlibr\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/358/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/360/
-.*\.admitad.com
-# https://reports.exodus-privacy.eu.org/en/trackers/275/
-admixer\.co\.kr
-# https://reports.exodus-privacy.eu.org/en/trackers/276/
-cdn\-api\.admost\.com
-go\.admost\.com
-med\-api\.admost\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/273/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/229/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/161/
-sdk\.adotmob\.com
-sync\.adotmob\.com
-tracker\.adotmob\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/321/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/41/
-adswizz\.com
-cdn\.adswizz.com\.edgesuite\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/196/
-ads\.aerserv\.com
-debug\.aerserv\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/337/
-api\.airpush\.com
-apidm\.airpush\.com
-apistaging\.airpush\.com
-apportal\.airpush\.com
-appwall\.api\.airpush\.com
-beta\.airpush\.com
-cdnap\.airpush\.com
-m\.airpush\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/334/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/338/
-\.alimama\.
-\.adsmogo\.
-# https://reports.exodus-privacy.eu.org/en/trackers/277/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/400/
-inputs\.alooma\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/82/
-api\.alphonso\.tv
-prov\.alphonso\.tv
-# https://reports.exodus-privacy.eu.org/en/trackers/269/
-api\.altamob\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/219/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/92/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/95/
-mobileanalytics\.us-east-1\.amazonaws\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/93/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/271/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/278/
-amobee\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/125/
-amplitude\.com
-api\.amplitude\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/279/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/401/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/387/
-.*\.anvato\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/339/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/131/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/136/
-sdk\.appbrain\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/255/
-appcelerator\.com
-appcelerator\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/194/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/132/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/72/
-applovin\.com
-applvn\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/140/
-analytics\.mobile\.yandex\.net
-appmetrica\.yandex\.com
-banners-slb\.mobile\.yandex\.net
-banners\.mobile\.yandex\.net
-mc\.yandex\.ru
-report\.appmetrica\.yandex\.net
-startup\.mobile\.yandex\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/163/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/184/
-appnext.com
-# https://reports.exodus-privacy.eu.org/en/trackers/15/
-247realmedia\.com
-adnxs\.com
-appnexus\.com
-appnexus\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/162/
-appodeal\.com
-appodealx\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/368/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/126/
-api\.appsee\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/12/
-appsflyer\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/369/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/115/
-api\.apptentive\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/135/
-brahe\.apptimize\.com
-md-a-c\.apptimize\.com
-md-a-s\.apptimize\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/367/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/260/
-e-ssl\.apsalar\.com
-e\.apsalar\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/155/
-api\.crittercism\.com
-appload\.ingest\.crittercism\.com
-txn\.ingest\.crittercism\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/55/
-areametrics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/31/
+# ADOP
+# AIHelp
+# AMoAd
+# APICloud
+# ATInternet
 ati-host\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/3/
+# AWS Kinesis
+# Aarki
+# AccountKit
+graph\.accountkit\.com
+# Acrarium
+# Actv8me
+actv8technologies\.com
+# Acuant
+frm\.acuant\.net|medicscan\.acuant\.net|services\.assureid\.net
+# Ad Generation
+# Ad2
+# Ad4Game
+ad4game\.com
+# Ad4Screen
+a4\.tl|accengage\.com|ad4push\.com|ad4screen\.com
+# AdAdapted
+ads\.adadapted\.com
+# AdBuddiz
+sdk\.adbuddiz\.com
+# AdColony
+adc3-launch\.adcolony\.com|adcolony\.com|ads30\.adcolony\.com|androidads20\.adcolony\.com|androidads21\.adcolony\.com|androidads23\.adcolony\.com|events3alt\.adcolony\.com|wd\.adcolony\.com
+# AdFalcon
+# AdFit (Daum)
+analytics\.ad\.daum\.net|statistics\.videofarm\.daum\.net
+# AdFlex
+# AdGateMedia
+# AdGem
+# AdLocus
+# AdMarvel
+# AdMuing
+# AdTech
+# AdTheorent
+adtheorent\.com|bm\.adentifi\.com|rtb\.adentifi\.com
+# AdTiming
+# AdTrial
+# AdWhirl (AdMob)
+# Adbrix
+ad-brix\.com
+# Adcash
+# Adcenix
+# Adchina
+# Add Apt Tr
+aatkit\.com
+# Adflake
+api\.adflake\.com|metrics\.adflake\.com
+# Adform
+adform\.com|adformdsp\.net|adx\.adform\.net|files\.adform\.net|track\.adform\.net
+# Adfurikun
+adfurikun\.jp|ginf\.adfurikun\.jp
+# Adincube
+sdk\.adincube\.com
+# Adjoe
+# Adjust
+adj\.st|adjust\.com
+# Adjust Unbotify
+# Admitad
+.*\.admitad.com
+# Admixer
+admixer\.co\.kr
+# Admost
+cdn\-api\.admost\.com|go\.admost\.com|med\-api\.admost\.com
+# Adobe Experience Cloud
+# Adot
+sdk\.adotmob\.com|sync\.adotmob\.com|tracker\.adotmob\.com
+# AdsWizz
+adswizz\.com|cdn\.adswizz.com\.edgesuite\.net
+# Adscend Media
+# Advangelists
+# Adzerk
+adzerk\.com|adzerk\.net|engine\.adzerk\.net|static\.adzerk\.net
+# AerServ
+ads\.aerserv\.com|debug\.aerserv\.com
+# Agoop
+# Agora Analytics
+# Ai.type *Malverting related
+# Airbridge
+# Airpush
+api\.airpush\.com|apidm\.airpush\.com|apistaging\.airpush\.com|apportal\.airpush\.com|appwall\.api\.airpush\.com|beta\.airpush\.com|cdnap\.airpush\.com|m\.airpush\.com
+# Akamai MAP
+# Alibaba Cloud Messaging
+mns\..*\.aliyuncs\.com
+# Alibaba HTTPDNS
+httpdns-sc\.aliyuncs\.com|203\.107\.1\.97|203\.107\.1\.100|203\.107\.1\.1
+# Alibaba UserTrack Device IDentity (UTDID)
+# Alibaba analytics
+# Alimama (formerly AdsMogo)
+\.alimama\.|\.adsmogo\.
+# Alipay SDK
+# Alohalytics
+# Alooma
+inputs\.alooma\.com
+# Alphonso
+api\.alphonso\.tv|prov\.alphonso\.tv
+# AltBeacon
+# Altamob
+api\.altamob\.com
+# Amazon Advertisement
+# Amazon Analytics (Amazon insights)
+mobileanalytics\.us-east-1\.amazonaws\.com
+# Amazon GameCircle
+# Amazon Mobile Analytics - Amplify
+# Amazon Mobile Associates
+# Amobee
+amobee\.com
+# Amplitude
+amplitude\.com|api\.amplitude\.com
+# Anagog
+# Analytics by NPAW (Youbora Suite)
+# Anet channel library
+amdc\.m\.taobao\.com|amdc\.wapa\.taobao\.com|amdc\.taobao\.net|dorangesource\.alicdn\.com|guide-acs\.m\.taobao\.com|gw\.alicdn\.com|ossgw\.alicdn\.com
+# Anvato (A Google Company)
+.*\.anvato\.net
+# AnySDK
+# Anzu
+# Aotter
+aotter\.net
+# App Samurai
+# AppAnalytics
+# AppBrain
+sdk\.appbrain\.com
+# AppConsent CMP
+# AppLink.io
+# AppLovin (MAX and SparkLabs)
+applovin\.com|applvn\.com
+# AppMetrica
+analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net
+# AppMonet
+# AppNexus
+247realmedia\.com|adnxs\.com|appnexus\.com|appnexus\.net
+# AppOnboard (Enterprise + Studio)
+# AppRight (by Gryphonet)
+# AppSee
+api\.appsee\.com
+# AppVador
+# AppZilo
+# Appcelerator Analytics
+appcelerator\.com|appcelerator\.net
+# Appdynamics
+# Appenda
+# Apperhand
+# Appirits
+# Applause
+# Applift
+# Appnext
+appnext.com
+# Appodeal
+appodeal\.com|appodealx\.com
+# Appodeal Stack
+# AppsFlyer
+appsflyer\.com
+# AppsGeyser
+# Apptentive
+api\.apptentive\.com
+# Apptimize
+brahe\.apptimize\.com|md-a-c\.apptimize\.com|md-a-s\.apptimize\.com
+# Apsalar
+e-ssl\.apsalar\.com|e\.apsalar\.com
+# Apteligent by VMWare (formerly Crittercism)
+api\.crittercism\.com|appload\.ingest\.crittercism\.com|txn\.ingest\.crittercism\.com
+# Areametrics
+areametrics\.com
+# Askingpoint
+# Audience Studio (Krux)
 krxd\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/203/
+# Auditude
 auditude\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/361/
-grid\.amap\.com
-tm\.amap\.com
-mst[0-9]*\.is\.autonavi\.com
-mt[0-9]*\.google\.cn
-abroad\.apilocate\.amap\.com
-apilocate\.amap\.com
-restapi\.amap\.com
-yuntuapi\.amap\.com
-m5\.amap\.com
-wb\.amap\.com
-wb\.amap\.com
-wb\.amap\.com
-wb\.amap\.com
-apiinit\.amap\.com
-restapi\.amap\.com
-logs\.amap\.com
-cgicol\.amap\.com
-lbs\.amap\.com
-wap\.amap\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/226/
-ads\.mobclix\.com
-axonix\.com
-data\.mobclix\.com
-mobclix\.com
-s\.mobclix\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/54/
+# AutoNavi / Amap
+grid\.amap\.com|tm\.amap\.com|mst[0-9]*\.is\.autonavi\.com|mt[0-9]*\.google\.cn|abroad\.apilocate\.amap\.com|apilocate\.amap\.com|restapi\.amap\.com|yuntuapi\.amap\.com|m5\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|apiinit\.amap\.com|restapi\.amap\.com|logs\.amap\.com|cgicol\.amap\.com|lbs\.amap\.com|wap\.amap\.com
+# Avazu aNative
+avazutracking\.net
+# Axonix
+ads\.mobclix\.com|axonix\.com|data\.mobclix\.com|mobclix\.com|s\.mobclix\.com
+# B4A
+# Babator
+# Babel Street (Babel X, Locate X, Babel Box)
+# Backelite
 backelite\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/96/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/97/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/99/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/75/
+# Backendless
+# Backtrace
+backtrace\.io
+# Baidu APPX
+# Baidu Crash Reporter
+# Baidu Location
+# Baidu Map
+# Baidu Maps
 map\.baidu\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/100/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/101/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/103/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/23/
+# Baidu Mobile Ads
+# Baidu Mobile Stat
+# Baidu Navigation
+# Batch
 batch\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/280/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/281/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/402/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/370/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/296/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/388/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/389/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/154/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/153/
-stags\.bluekai\.com
-tags\.bluekai\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/403/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/167/
+# Bazaarvoice
+# BeaconBank
+# BeaconsInSpace (Fysical)
+# Beemray
+# Beintoo
+# BidMachine
+# BitLabs
+# Bitly
+# Blesh
+# BlueConic
+# BlueKai (acquired by Oracle)
+stags\.bluekai\.com|tags\.bluekai\.com
+# Bluecats
+# Bolts
+# Branch
 api\.branch\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/17/
+# Brandio
+# Braze (formerly Appboy)
 appboy\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/178/
+# Brightcove
 metrics\.brightcove\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/233/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/190/
+# BugClipper
+# BugSense
+# Bugfender
+# Buglife
+# Bugly
 bugly\.qq\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/241/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/371/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/207/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/340/
+# Bugsee
+# Bugsnag
+# Buildbox (AppOnboard)
+# Button
 \.usebutton.com
-# https://reports.exodus-privacy.eu.org/en/trackers/372/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/252/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/111/
+# BuzzAd Benefit
+# Byyd (Adfonic)
+# CallDorado
+# CaramelAds
+# Carnival
 devices\.carnivalmobile\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/341/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/257/
+# Carto (formerly Nutiteq)
+# Cauly
 ad\.cauly\.co\.kr
-# https://reports.exodus-privacy.eu.org/en/trackers/404/
-cedexis\-radar\.net
-cedexis\.com
-radar\.cedexis\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/267/
-.chartbeat\.com
-.chartbeat\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/53/
+# Cedexis Radar
+cedexis\-radar\.net|cedexis\.com|radar\.cedexis\.com
+# ChartBoost
 \.chartboost\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/168/
+# Chartbeat
+.chartbeat\.com|.chartbeat\.net
+# Cheetah Ads
 cmcm\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/405/
+# Cifrasoft
 \.tele\.fm
-# https://reports.exodus-privacy.eu.org/en/trackers/174/
+# CleanInsights
+# ClearBlade
+# CleverTap
 wzrkt\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/176/
-api\.cloudmobi\.net
-cloudmobi\.net
-logger\.cloudmobi\.net
-vast\.cloudmobi\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/64/
+# Cloudmobi
+api\.cloudmobi\.net|cloudmobi\.net|logger\.cloudmobi\.net|vast\.cloudmobi\.net
+# Colocator
 colocator\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/56/
+# ComScore
 comscore\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/282/
+# Complementics
+# Contentsquare
+# Conversant
 conversantmedia\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/202/
+# Conviva
 cws\.conviva\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/390/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/122/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/170/
+# CoolaData
+# Countly
+# CrashSDK
+# Criteo
 criteo\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/46/
+# Critic
+# CrowdTangle
 api\.crowdtangle\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/57/
+# Cuebiq
 cuebiq\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/187/
-deltadna\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/40/
-demdex\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/342/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/188/
-display.io
-# https://reports.exodus-privacy.eu.org/en/trackers/179/
+# Custom Activity On Crash
+# DOV-E
 \.dov-e\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/191/
+# DaoCheng(Thinkyeah)
+# Databox
+# Dawin
+adotsolution\.com|click\.dawin\.tv
+# DearOne(LocationValue)
+# DebugDrawer
+# Demdex
+demdex\.net
+# Didomi
+# Digital Union (shuzilm)
+# Display
+display.io
+# Duapps
 duapps\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/152/
-adm\.dynamicyield\.com
-api\.dynamicyield\.com
-cdn\.dynamicyield\.com
-px\.dynamicyield\.com
-st\.dynamicyield\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/137/
+# Dynamic Yield
+adm\.dynamicyield\.com|api\.dynamicyield\.com|cdn\.dynamicyield\.com|px\.dynamicyield\.com|st\.dynamicyield\.com
+# Dynatrace
 \.dynatrace\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/264/
+# EVRYTHNG
+mqtt\.evrythng\.com
+# Ehawk
+ehawk\.com
+# Elephant Data
+# Emarsys Predict
 recommender\.scarabresearch\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/297/
-app-config\.enhance\.co
-data-location\.enhance\.co
-# https://reports.exodus-privacy.eu.org/en/trackers/151/
+# Embrace
+# Enhance
+app-config\.enhance\.co|data-location\.enhance\.co
+# Ensighten
 nexus\.ensighten\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/298/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/102/
+# Epic games analytics
+# Esri ArcGIS
+# Estimote
 .*\.estimote\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/51/
+# Eulerian
 eulerian\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/42/
+# Evidon (now Crownpeak)
+c\.betrad\.com
+# ExactTarget
 \.exacttarget\.
-# https://reports.exodus-privacy.eu.org/en/trackers/350/
-api.infinario.com
-sygic-api.infinario.com
-# https://reports.exodus-privacy.eu.org/en/trackers/65/
+# Exelate (A Nielsen Company)
+loadus\.exelator\.com
+# Exponea
+api.infinario.com|sygic-api.infinario.com
+# Eyewind
+# F.O.X(appadforce)
+# FLUZO
+# Facebook Ads
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/66/
+# Facebook Analytics
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/47/
+# Facebook Audience
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/392/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/67/
+# Facebook Flipper
+# Facebook Login
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/68/
+# Facebook Notifications
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/69/
+# Facebook Places
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/70/
+# Facebook Share
 \.facebook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/314/
+# Factual
 api.factual.com
-# https://reports.exodus-privacy.eu.org/en/trackers/2/
+# FidZup
 fidzup
-# https://reports.exodus-privacy.eu.org/en/trackers/150/
-a\.fiksu\.com
-sdk\.fiksu\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/385/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/406/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/25/
+# Fiksu
+a\.fiksu\.com|sdk\.fiksu\.com
+# Flatiron Media
+# FlowUp
+# Flowsense
+# FluctSDK
+# Flurry
 flurry\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/391/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/294/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/266/
+# FollowAnalytics
 sdk\.follow-apps\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/315/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/149/
-4seeresults\.com
-analytics\.foresee\.com
-foresee\.com
-foreseeresults\.com
-i\.4see\.mobi
-rec\.replay\.answerscloud\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/224/
+# Footmarks
+# Foresee
+4seeresults\.com|analytics\.foresee\.com|foresee\.com|foreseeresults\.com|i\.4see\.mobi|rec\.replay\.answerscloud\.com
+# FreeWheel
 fwmrm\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/415/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/104/
-adproxy\.fyber\.com
-appengage-video\.fyber\.com
-banner\.fyber\.com
-engine\.fyber\.com
-interstitial\.fyber\.com
-mbe-cdn\.fyber\.com
-offer\.fyber\.com
-service\.fyber\.com
-tracker\.fyber\.com
-video-interstitial-assets-cdn\.fyber\.com
-video\.fyber\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/109/
-appengage-video\.sponsorpay\.com
-cdn1\.sponsorpay\.com
-cdn2\.sponsorpay\.com
-cdn3\.sponsorpay\.com
-cdn4\.sponsorpay\.com
-engine\.sponsorpay\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/205/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/227/
+# Fyber
+adproxy\.fyber\.com|appengage-video\.fyber\.com|banner\.fyber\.com|engine\.fyber\.com|interstitial\.fyber\.com|mbe-cdn\.fyber\.com|offer\.fyber\.com|service\.fyber\.com|tracker\.fyber\.com|video-interstitial-assets-cdn\.fyber\.com|video\.fyber\.com
+# Fyber SponsorPay
+appengage-video\.sponsorpay\.com|cdn1\.sponsorpay\.com|cdn2\.sponsorpay\.com|cdn3\.sponsorpay\.com|cdn4\.sponsorpay\.com|engine\.sponsorpay\.com
+# GIPHY Analytics
+api\.giphy\.com|pingback\.giphy\.com
+# GMobi - Go2Reach (General Mobile Corporation)
+api\.generalmobi\.com
+# GOM Factory AdPie
+# GPA KOREA
+com.gad.sdk.
+# GPShopper
+sdk\.gpshopper\.com|sypi\.gpshopper\.com
+# Gamania Beanfun
+# Game Sparks
+# GameAnalytics
+# Gameloft
+gameloft/
+# Gemius HeatMap
 gemius\.pl
-# https://reports.exodus-privacy.eu.org/en/trackers/407/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/148/
-cdn1\.gigya\.com
-cdn2\.gigya\.com
-cdn3\.gigya\.com
-cdn\.gigya\.com
-cdns\.us1\.gigya\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/201/
-analytics-server\.gimbal\.com
-api\.gimbal\.com
-registration\.gimbal\.com
-sdk-info\.gimbal\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/299/
-api\.giphy\.com
-pingback\.giphy\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/73/
-\.avocarrot\.com
-ads\.glispa\.com
-exp\.glispa\.com
-rtb\.platform\.glispa\.com
-templates\.glispaconnect\.com
-trk\.glispa\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/283/
+# Geniee
+# GeoUniq (Cloud4Win)
+# GetCake (CAKE)
+# Gigya
+cdn1\.gigya\.com|cdn2\.gigya\.com|cdn3\.gigya\.com|cdn\.gigya\.com|cdns\.us1\.gigya\.com
+# Gimbal
+analytics-server\.gimbal\.com|api\.gimbal\.com|registration\.gimbal\.com|sdk-info\.gimbal\.com
+# Glassbox
+.*\.glassboxdigital\.io
+# Glispa Connect (Formerly Avocarrot)
+\.avocarrot\.com|ads\.glispa\.com|exp\.glispa\.com|rtb\.platform\.glispa\.com|templates\.glispaconnect\.com|trk\.glispa\.com
+# Glympse
 \.glympse\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/373/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/312/
-2mdn\.net
+# Google AdMob
+2mdn\.net|\.google\.com|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com
+# Google Ads
 \.google\.com
-dmtry\.com
-doubleclick\.com
-doubleclick\.net
-mng-ads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/71/
-\.google\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/48/
+# Google Analytics
 google-analytics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/240/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/27/
+# Google Analytics Plugin (Cordova)
+# Google Awareness
+# Google Cloud Audit
+cloudaudit\.googleapis\.com
+# Google CrashLytics
 crashlytics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/5/
-2mdn\.net
-dmtry\.com
-doubleclick\.com
-doubleclick\.net
-mng-ads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/49/
+# Google DoubleClick
+2mdn\.net|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com
+# Google Firebase Analytics
 firebase\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/105/
-www\.googletagmanager\.com
-www\.googletagservices\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/393/
-sdk\.gpshopper\.com
-sypi\.gpshopper\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/300/
+# Google Play Billing Library / Service
+# Google Tag Manager
+www\.googletagmanager\.com|www\.googletagservices\.com
+# Grab Analytics
+# Gravy Analytics
+api\.findgravy\.com|ws\.findgravy\.com
+# GreedyGame
+# GreenRobot
+# GroundTruth
+# GrowingIO
+# Growth Push
+# Heap
 heapanalytics.com
-# https://reports.exodus-privacy.eu.org/en/trackers/58/
+# HelpShift
 helpshift\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/284/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/147/
-ads\.heyzap\.com
-fyc\.heyzap\.com
-img-cloudflare-2\.haizap\.com
-img-cloudflare\.haizap\.com
-med\.heyzap\.com
-x\.heyzap\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/26/
+# Herow
+# HeyTap
+# Heyzap (bought by Fyber)
+ads\.heyzap\.com|fyc\.heyzap\.com|img-cloudflare-2\.haizap\.com|img-cloudflare\.haizap\.com|med\.heyzap\.com|x\.heyzap\.com
+# HockeyApp
 hockeyapp\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/209/
+# Hotmob SDK
+# Houndify
 houndify\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/333/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/408/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/77/
-api\.hypertrack\.com
-hypertrack\.amazonaws\.com
-trck\.at
-# https://reports.exodus-privacy.eu.org/en/trackers/189/
+# Houseads
+# Huawei Mobile Services (HMS) Core
+# Huq Sourcekit
+# HyperTrack
+api\.hypertrack\.com|hypertrack\.amazonaws\.com|trck\.at
+# HyprMX
 hyprmx\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/328/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/362/
+# IAB Open Measurement
+# IAC
+# IBM Digital Analytics
 data\.de\.coremetrics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/394/
-ipsws\.indooratlas\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/197/
+# IBM Mobile Marketing (Acoustic)
+sdk6\.ibm\.xtify\.com
+# IGG.com
+# INFOnline
 de\.ioam\.de
-# https://reports.exodus-privacy.eu.org/en/trackers/231/
-inlocomedia\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/180/
-m2m-api\.inmarket\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/106/
-c\.w\.inmobi\.com
-china\.inmobi\.com
-config-ltvp\.inmobi\.com
-config\.inmobi\.com
-et\.w\.inmobi\.com
-i\.l\.inmobicdn\.net
-i\.w\.inmobi\.com
-inmobi\.cn
-inmobi\.com
-inmobi\.info
-inmobi\.net
-inmobi\.us
-inmobicdn\.com
-inmobicdn\.net
-inmobisdk\-a\.akamaihd\.net
-japan\.inmobi\.com
-r\.w\.inmobi\.com
-sdkm\.w\.inmobi\.com
-sdktm\.w\.inmobi\.com
-w\.inmobi\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/301/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/85/
-inrix\.com
-inrix\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/409/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/206/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/204/
-instreamatic\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/218/
-adsafeprotected\.com
-iasds01\.com
-integralads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/351/
+# IPQualityScore
 ipqualityscore\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/232/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/146/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/395/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/343/
+# IQV
+# IQzone
+# In Loco
+inlocomedia\.com
+# InBrainSurveys SDK
+# InMarket
+m2m-api\.inmarket\.com
+# IndoorAtlas
+ipsws\.indooratlas\.com
+# Inmobi
+c\.w\.inmobi\.com|china\.inmobi\.com|config-ltvp\.inmobi\.com|config\.inmobi\.com|et\.w\.inmobi\.com|i\.l\.inmobicdn\.net|i\.w\.inmobi\.com|inmobi\.cn|inmobi\.com|inmobi\.info|inmobi\.net|inmobi\.us|inmobicdn\.com|inmobicdn\.net|inmobisdk\-a\.akamaihd\.net|japan\.inmobi\.com|r\.w\.inmobi\.com|sdkm\.w\.inmobi\.com|sdktm\.w\.inmobi\.com|w\.inmobi\.com
+# Inneractive
+# Inrix
+inrix\.com|inrix\.io
+# Insider
+# Instabug
+# Instal
+# Instreamatic (Adman)
+instreamatic\.com
+# Integral Ad Science
+adsafeprotected\.com|iasds01\.com|integralads\.com
+# Intrasonics
+# IntroMi
+# Ironsource mobileCore
+# JW Player
+g\.jwpsrv\.com|jwpltx\.com|p\.jwpcdn\.com
+# Janrain
+# JiGuang Aurora Mobile JPush
 .*\.jiguang\.cn
-# https://reports.exodus-privacy.eu.org/en/trackers/344/
-mobile-sdk-resources.jumio.com
-nv-sdk.jumio.com
-# https://reports.exodus-privacy.eu.org/en/trackers/374/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/8/
-g\.jwpsrv\.com
-jwpltx\.com
-p\.jwpcdn\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/262/
+# Jolt
+# Jumio
+mobile-sdk-resources.jumio.com|nv-sdk.jumio.com
+# JumpTap
+# KARTE
+# KIDOZ
+# KakaoTalk Link
+.*kauth\.kakao\.com|.*kapi\.kakao\.com|.*kauth\.kakao\.com|.*wguide\.kakao\.com|.*kauth\.kakao\.com|.*sharer\.kakao\.com
+# Keen
 api\.keen\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/235/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/214/
+# Kiip
 kiip\.me
-# https://reports.exodus-privacy.eu.org/en/trackers/237/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/127/
-control\.kochava\.com
-kvinit\-prod\.api\.kochava\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/59/
+# Kissmetrics
+# Kochava
+control\.kochava\.com|kvinit\-prod\.api\.kochava\.com
+# Komli Mobile (ZestAdz)
+# Kontakt
 kontakt\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/28/
+# LeadBolt
+# LeanPlum
 leanplum\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/345/
+# Lenddo
 \.partner-service\.link
-# https://reports.exodus-privacy.eu.org/en/trackers/13/
+# Ligatus
 ligatus\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/79/
+# Lisnr
 lisnr\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/16/
-analytics\.localytics\.com
-manifest\.localytics\.com
-profile\.localytics\.com
-sdk-assets\.localytics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/60/
+# Localytics
+analytics\.localytics\.com|manifest\.localytics\.com|profile\.localytics\.com|sdk-assets\.localytics\.com
+# Locuslabs
 locuslabs\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/9/
+# Loggly
 loggly\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/375/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/265/
+# LoopMe
+# LotaData
+# Lotame
 ad\.crwdcntrl\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/89/
-dispatcher\.mng\-ads\.com
-mobile\.mng\-ads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/336/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/322/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/171/
-a\.tiles\.mapbox\.com
-api\.tiles\.mapbox\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/138/
-matomo\.org
-# https://reports.exodus-privacy.eu.org/en/trackers/302/
+# MAdvertise
+dispatcher\.mng\-ads\.com|mobile\.mng\-ads\.com
+# MDOTM
 ads\.mdotm\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/311/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/303/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/246/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/243/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/238/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/107/
-adtech\.de
-contextual\.media\.net
-media\.net
-millennialmedia\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/200/
-analytics\.rayjump\.com
-cdn-adn\.rayjump\.com
-de01\.rayjump\.com
-de\.rayjump\.com
-detect\.rayjump\.com
-fk-mtrack\.rayjump\.com
-hybird\.rayjump\.com
-jssdk\.rayjump\.com
-net\.rayjump\.com
-online\.rayjump\.com
-rayjump\.com
-setting\.rayjump\.com
-sg-mtrack\.rayjump\.com
-sg01\.rayjump\.com
-sg\.rayjump\.com
-tknet\.rayjump\.com
-us01\.rayjump\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/118/
-api\.mixpanel\.com
-decide\.mixpanel\.com
-mixpanel\.com
-switchboard\.mixpanel\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/61/
-apx\.moatads\.com
-geo\.moatads\.com
-js\.moatads\.com
-mb\.moatads\.com
-moat\.com
-pixel\.moatads\.com
-px\.moatads\.com
-sejs\.moatads\.com
-yt\.moatads\.com
-yts\.moatads\.com
-z\.moatads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/185/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/63/
-login\.microsoftonline\.com
-management\.azure\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/215/
-api\.mobpowertech\.com
-log\.mobpowertech\.com
-mobpowertech\.com
-scheme\.mobpowertech\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/159/
-mobvista\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/396/
+# MOCA
 api-device\.mocaplatform\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/268/
+# Madhouse
+# Mail.ru
+# Malverting/Adfrauds
+# Malverting/Adfrauds#2
+# Mapbox
+a\.tiles\.mapbox\.com|api\.tiles\.mapbox\.com
+# Marketo (an Adobe Company)
+marketo\.com|marketo\.net|mktoedge\.com|mktossl\.com
+# Matomo (Piwik)
+matomo\.org
+# MediaMath
+pixel.mathtag.com
+# Metaps
+# Metrics
+# Mezzomedia AD Platform
+# Microsoft Azure
+# Microsoft Visual Studio App Center Analytics
+# Microsoft Visual Studio App Center Crashes
+# Millennial Media
+adtech\.de|contextual\.media\.net|media\.net|millennialmedia\.com
+# Mintegral
+analytics\.rayjump\.com|cdn-adn\.rayjump\.com|de01\.rayjump\.com|de\.rayjump\.com|detect\.rayjump\.com|fk-mtrack\.rayjump\.com|hybird\.rayjump\.com|jssdk\.rayjump\.com|net\.rayjump\.com|online\.rayjump\.com|rayjump\.com|setting\.rayjump\.com|sg-mtrack\.rayjump\.com|sg01\.rayjump\.com|sg\.rayjump\.com|tknet\.rayjump\.com|us01\.rayjump\.com
+# MixPanel
+api\.mixpanel\.com|decide\.mixpanel\.com|mixpanel\.com|switchboard\.mixpanel\.com
+# MoEngage
 apiv2\.moengage\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/208/
+# Moat
+apx\.moatads\.com|geo\.moatads\.com|js\.moatads\.com|mb\.moatads\.com|moat\.com|pixel\.moatads\.com|px\.moatads\.com|sejs\.moatads\.com|yt\.moatads\.com|yts\.moatads\.com|z\.moatads\.com
+# MobFox
+# MobPower
+api\.mobpowertech\.com|log\.mobpowertech\.com|mobpowertech\.com|scheme\.mobpowertech\.com
+# Mobclick
+# Mobile Engagement
+login\.microsoftonline\.com|management\.azure\.com
+# Mobiquity Networks
+# Mobknow SDK
+# Moblin
+# Mobon SDK
+# Mobvista
+mobvista\.com
+# Mofiler
+# Mojise
+# Moodmedia
 moodpresence\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/410/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/221/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/18/
-mparticle\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/198/
-.target\.my\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/175/
-tracker-api\.my\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/74/
+# Mopinion
+# Morgoo Packer
+# Mozilla Crashreport
+# Mozilla Telemetry
+# NativeX
 nativex\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/222/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/130/
-js-agent\.newrelic\.com
-mobile-collector\.newrelic\.com
-newrelic\.com
-nr-data\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/33/
+# NetVelocity Passive SDK
+# New Relic
+js-agent\.newrelic\.com|mobile-collector\.newrelic\.com|newrelic\.com|nr-data\.net
+# NewsPic
+# Nexage
 nexage\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/244/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/411/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/34/
+# Nielsen
+# Ninja Metics
+# Noah Pass
+# NoxMobi(AiAdMobi)
+# Number Analytics
+# ONEstore
+onesto\.re
+# OfferToro
+# Ogury
+# Ogury Presage
 presage\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/43/
-omniture\.com
-omtrdc\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/355/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/193/
+# Omniture
+omniture\.com|omtrdc\.net
+# OneAudience
+# OneSignal
 onesignal\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/213/
+# Onetrust
+# Ooyala
 ooyala\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/356/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/44/
+# OpenBack
+# OpenLocate
 api\.safegraph\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/352/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/412/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/210/
-openx\.com
-openx\.net
-openx\.org
-us-ads\.openx\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/172/
+# OpenTelemetry (OpenCensus, OpenTracing)
+# OpenUDID
+# OpenX
+openx\.com|openx\.net|openx\.org|us-ads\.openx\.net
+# Openalliance (Huawei ads kit)
+# Opensignal
+# Opentracker
+app\.opentracker\.net
+# Optimizely
 optimizely\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/182/
-api\.otherlevels\.com
-geodata\.otherlevels\.com
-mdn\.otherlevels\.com
-rich\.otherlevels\.com
-tags\.otherlevels\.com
-ws\.otherlevels\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/11/
+# OtherLevels
+api\.otherlevels\.com|geodata\.otherlevels\.com|mdn\.otherlevels\.com|rich\.otherlevels\.com|tags\.otherlevels\.com|ws\.otherlevels\.com
+# OutBrain
 outbrain\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/316/
+# OzTAM
 deliver.oztam.com.au
-# https://reports.exodus-privacy.eu.org/en/trackers/363/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/304/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/416/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/166/
-dev-api\.persona\.ly
-dev\.dsp\.persona\.ly
-dev\.persona\.ly
-dsp\.persona\.ly
-persona\.ly
-rtb\.persona\.ly
-sdk\.persona\.ly
-# https://reports.exodus-privacy.eu.org/en/trackers/181/
+# PEANUT LABS
+# POKKT
+# Pangle
+# Papaya
+en\.papayamobile\.com
+# Parse
+# Parse.ly
+# PartyTrack
+# Pendo
+# Persona.ly
+dev-api\.persona\.ly|dev\.dsp\.persona\.ly|dev\.persona\.ly|dsp\.persona\.ly|persona\.ly|rtb\.persona\.ly|sdk\.persona\.ly
+# Personograph
+# Phunware Advertising
+# Pilgrim by Foursquare
 sdk\.foursquare\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/261/
+# Pincrux
+# PingStart
 api\.pingstart\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/160/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/285/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/417/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/397/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/346/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/305/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/347/
+# Pinterest
+ct\.pinterest\.com|log\.pinterest\.com|trk\.pinterest\.com
+# Placed
+# Placer
+# PlayFab java
+# Playtestcloud
+# Plexure
+# Plleti
+# Point Inside
+# Pollfish
+# Pontiflex
+# Prebid Mobile
 .prebid.org
-# https://reports.exodus-privacy.eu.org/en/trackers/357/
+# PredicIO
 sdk\.predic\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/398/
+# Profile Passport
+# Proximi.io
 api\.proximi\.fi
-# https://reports.exodus-privacy.eu.org/en/trackers/236/
-ads\.pubmatic\.com
-aktrack\.pubmatic\.com
-gads\.pubmatic\.com
-image2\.pubmatic\.com
-simage2\.pubmatic\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/183/
+# PubMatic
+ads\.pubmatic\.com|aktrack\.pubmatic\.com|gads\.pubmatic\.com|image2\.pubmatic\.com|simage2\.pubmatic\.com
+# PubNative
 pubnative\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/223/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/286/
+# PubNub
+.*\.pubnub\.com
+# Pulsate
+# PushSpring
 api\.pushspring\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/39/
+# Pusher
+# Pushwoosh
 pushwoosh\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/287/
+# Pushy
+# Pyze
 pyze\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/306/
+# Qihoo Packer
+# Quadrant Data Acquisition SDK
+# Qualtrics
 qualtrics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/133/
-quantcast\.com
-quantcast\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/288/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/94/
+# Quantcast
+quantcast\.com|quantcast\.net
+# Quantumgraph(QGraph)/Appier
+# Radar
+# Radius Networks
 proximitykit\.radiusnetworks\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/376/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/317/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/247/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/88/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/245/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/263/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/377/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/289/
+# Rakuten Analytics SDK
+# Rakuten Ready ARRIVE (Curbside)
+# Rakuten Unified Ads
+# Raygun
+# Receptiv (formerly Mediabrix)
+# Repro
+# Retency
+# Reveal Mobile
+# Revmob
+# RjFun
+# Rollbar
+# Roximity
 app\.roximity\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/145/
-ads\.rubiconproject\.com
-fastlane\.rubiconproject\.com
-optimized-by\.rubiconproject\.com
-pixel\.rubiconproject\.com
-stats\.aws\.rubiconproject\.com
-tap2-cdn\.rubiconproject\.com
-video-ads\.rubiconproject\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/20/
-s4m\.io
-sam4m\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/220/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/84/
+# Rubicon Project
+ads\.rubiconproject\.com|fastlane\.rubiconproject\.com|optimized-by\.rubiconproject\.com|pixel\.rubiconproject\.com|stats\.aws\.rubiconproject\.com|tap2-cdn\.rubiconproject\.com|video-ads\.rubiconproject\.com
+# Rumble
+# S4M
+s4m\.io|sam4m\.com
+# SAS
+# SK planet Tad
+# SNS SDK(bytedance)
+i\.snssdk\.com|is\.snssdk\.com
+# Sailthru
+.*\.sailthru\.com
+# Salesforce Marketing Cloud
+# SaySo Rewards
+# Scandit
 scandit\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/30/
-schibsted\.com
-schibsted\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/399/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/62/
-api\.segment\.io
-segment\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/144/
-android-quinoa-config-prod\.sense360eng\.com
-incoming-data-sense360\.s3\.amazonaws\.com
-quinoa-personal-identify-prod\.sense360eng\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/143/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/248/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/290/
+# Schibsted
+schibsted\.com|schibsted\.io
+# Score Card Research
+scorecardresearch\.com
+# ScoreLoop
+# Segment
+api\.segment\.io|segment\.com
+# Sense360
+android-quinoa-config-prod\.sense360eng\.com|incoming-data-sense360\.s3\.amazonaws\.com|quinoa-personal-identify-prod\.sense360eng\.com
+# Sensoro
+# Sensors Analytics
+# Sentiance
 api\.sentiance\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/186/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/81/
-sdk\.shopkick\.com
-shopkick\.com
-shopkick\.de
-# https://reports.exodus-privacy.eu.org/en/trackers/86/
-signal360\.com
-sonicnotify\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/353/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/80/
-54\.243\.73\.253:8080/SilverPush/
-silverpush\.co
-silverpush\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/142/
+# Sentry
+# ShallWeAD
+# Shopkick
+sdk\.shopkick\.com|shopkick\.com|shopkick\.de
+# Signal360
+signal360\.com|sonicnotify\.com
+# SignalFrame
+# SilverPush
+54\.243\.73\.253:8080/SilverPush/|silverpush\.co|silverpush\.com
+# SimilarWeb
+# Singlespot
 singlespot\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/251/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/22/
+# Singular
+# Sino Weibo SDK
+widget\.weibo\.com|api\.weibo\.com|service\.weibo\.com|api\.weibo\.com|api\.weibo\.cn|weibo\.cn|open\.weibo\.cn|widget\.weibo\.com|service\.weibo\.com|app\.sina\.cn|weibo\.cn|m\.weibo\.cn|api\.weibo\.com|api\.weibo\.com
+# Situm SDK
+# Sizmek
 serving-sys\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/348/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/83/
-smaato\.net
-soma\.smaato\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/7/
-adsrvr\.org
-akamai\.smartadserver\.com
-cdn1\.smartadserver\.com
-diff2\.smartadserver\.com
-diff3\.smartadserver\.com
-diff\.smartadserver\.com
-eqx\.smartadserver\.com
-gallery\.smartadserver\.com
-im2\.smartadserver\.com
-insight\.adsrvr\.org
-itx5-publicidad\.smartadserver\.com
-itx5\.smartadserver\.com
-js\.adsrvr\.org
-match\.adsrvr\.org
-preview\.smartadserver\.com
-rtb-csync\.smartadserver\.com
-saspreview\.com
-smartadserver\.com
-smartadserver\.ru
-tmk\.smartadserver\.com
-usw\-lax\.adsrvr\.org
-# https://reports.exodus-privacy.eu.org/en/trackers/291/
+# Skillz Android Unity
+# Skyhook
+# Smaato
+smaato\.net|soma\.smaato\.net
+# Smart
+adsrvr\.org|akamai\.smartadserver\.com|cdn1\.smartadserver\.com|diff2\.smartadserver\.com|diff3\.smartadserver\.com|diff\.smartadserver\.com|eqx\.smartadserver\.com|gallery\.smartadserver\.com|im2\.smartadserver\.com|insight\.adsrvr\.org|itx5-publicidad\.smartadserver\.com|itx5\.smartadserver\.com|js\.adsrvr\.org|match\.adsrvr\.org|preview\.smartadserver\.com|rtb-csync\.smartadserver\.com|saspreview\.com|smartadserver\.com|smartadserver\.ru|tmk\.smartadserver\.com|usw\-lax\.adsrvr\.org
+# SmartBeat
+# SmartLook
 smartlook\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/413/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/108/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/164/
+# SmartyAds
+# Snap Ad Kit
+# Snapchat Login Kit
+# Snowplow
+# Solar2D (Corona)
+# Soomla
 soom\.la
-# https://reports.exodus-privacy.eu.org/en/trackers/349/
-event.split.io
-sdk.split.io
-# https://reports.exodus-privacy.eu.org/en/trackers/242/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/292/
+# Split
+event.split.io|sdk.split.io
+# Splunk MINT
+# Spoteer Arc
+# Spotify Advertising
+# Square Metrics
 api\.beaconinside\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/195/
-c2i\.startappnetwork\.com
-c2s\.startappnetwork\.com
-click\.startappservice\.com
-dts\.startappservice\.com
-events\.startappservice\.com
-images\.startappservice\.com
-imp\.startappservice\.com
-info\.static\.startappservice\.com
-init\.startappservice\.com
-req\.startappservice\.com
-soda\.startappservice\.com
-startappservice\.com
-va\.origin\.startappservice\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/378/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/110/
-click-haproxy\.supersonicads\.com
-cx\.ssacdn\.com
-init\.supersonicads\.com
-logs\.supersonic\.com
-outcome\.supersonicads\.com
-ow-gateway\.supersonicads\.com
-pixel-tracking\.sonic-us\.supersonicads\.com
-rv-gateway\.supersonicads\.com
-static\.ssacdn\.com
-supersonic\.com
-supersonicads-a\.akamaihd\.net
-tag\-mediation.supersonic.com
-ua\.supersonicads\.com
-v\.ssacdn\.com
-www\.supersonicads\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/418/
+# Startapp
+c2i\.startappnetwork\.com|c2s\.startappnetwork\.com|click\.startappservice\.com|dts\.startappservice\.com|events\.startappservice\.com|images\.startappservice\.com|imp\.startappservice\.com|info\.static\.startappservice\.com|init\.startappservice\.com|req\.startappservice\.com|soda\.startappservice\.com|startappservice\.com|va\.origin\.startappservice\.com
+# SuperAwesome
+# Supership
+# Supersonic Ads
+click-haproxy\.supersonicads\.com|cx\.ssacdn\.com|init\.supersonicads\.com|logs\.supersonic\.com|outcome\.supersonicads\.com|ow-gateway\.supersonicads\.com|pixel-tracking\.sonic-us\.supersonicads\.com|rv-gateway\.supersonicads\.com|static\.ssacdn\.com|supersonic\.com|supersonicads-a\.akamaihd\.net|tag\-mediation.supersonic.com|ua\.supersonicads\.com|v\.ssacdn\.com|www\.supersonicads\.com
+# Swirl
 cdn-api\.swirl\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/192/
-api\.swrve\.com
-content\.swrve\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/24/
+# Swrve
+api\.swrve\.com|content\.swrve\.com
+# Sync2Ad
 sync2ad\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/173/
+# Synerise
+synerise\.com
+# TAPTrack
+# TAmedia
+# TJHello ADEasy
+# TNK Factory
+# Taboola
 taboola\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/45/
-\.commander1\.com
-\.tagcommander.com
-# https://reports.exodus-privacy.eu.org/en/trackers/293/
-account\.talkingdata\.com
-av1\.xdrig\.com
-cloud\.xdrig\.com
-m\.talkingdata\.com
-push\.xdrig\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/307/
+# TagCommander (Commanders Act.)
+\.commander1\.com|\.tagcommander.com
+# TalkingData
+account\.talkingdata\.com|av1\.xdrig\.com|cloud\.xdrig\.com|m\.talkingdata\.com|push\.xdrig\.com
+# Tamoco
 evt\.tamoco\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/258/
+# TapIt
+# TapReason
+# TapResearch
+# Tapad
+analytics\.tapad\.com|assets\.tapad\.com|pixel\.tapad\.com|tapestry\.tapad\.com
+# Tapdaq
 ads\.tapdaq\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/199/
-tapjoy\.com
-tapjoyads\.com
-www\.5rocks\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/211/
-api\.taplytics\.com
-ping\.tapylitics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/380/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/379/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/250/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/230/
+# Tapjoy
+tapjoy\.com|tapjoyads\.com|www\.5rocks\.io
+# Taplytics
+api\.taplytics\.com|ping\.tapylitics\.com
+# Tappx
+# Tapstream
+# Teads
 teads\.tv
-# https://reports.exodus-privacy.eu.org/en/trackers/270/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/32/
-tealiumiq\.com
-tiqcdn\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/1/
+# Tealeaf
+# Tealium
+tealiumiq\.com|tiqcdn\.com
+# Teemo
 databerries\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/87/
+# Telaria (Tremor Video SDK)
+# TeleQuid
 mars\.telequid\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/112/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/113/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/114/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/116/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/117/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/249/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/381/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/29/
+# Teliver
+# Tencent MTA
+# Tencent Map LBS
+# Tencent MobWin
+# Tencent QQ SDK
+# Tencent Stats
+# Tencent TDA
+\.tdm\.qq\.com
+# Tencent Wechat SDK
+# Tencent Weiyun
+# Tenjin
+# TheoremReach
+# ThinkingData Analytics
+# TikTok SDK
+# Tinder Analytics
 etl\.tindersparks\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/225/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/419/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/38/
+# TogetherAd
+# TradPlus
+# Treasure Data
+# Trillbit
+api\.trillbit\.com
+# TripleLift
+3lift\.com
+# Tune
 mobileapptracking\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/318/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/319/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/35/
+# Tutela
+# Tutucloud
+tusdk\.com
+# Twine Data
+# Twitter MoPub
 mopub\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/78/
+# Twitter ads
+# UCWeb UC Ads
+# UXCam
+# Uber Analytics
 events\.uber\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/119/
-alog\.umeng\.com
-alogs\.umeng\.com
-ar\.umeng\.com
-oc\.umeng\.com
-umeng\.com
-uop\.umeng\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/120/
-alog\.umeng\.com
-alogs\.umeng\.com
-ar\.umeng\.com
-oc\.umeng\.com
-umeng\.com
-uop\.umeng\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/313/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/121/
-adserver\.unityads\.unity3d\.com
-analytics\.social\.unity\.com
-api\.uca\.cloud\.unity3d\.com
-auction\.unityads\.unity3d\.com
-cdn-highwinds\.unityads\.unity3d\.com
-cdn\.unityads\.unity3d\.com
-config\.uca\.cloud\.unity3d\.com
-config\.unityads\.unity3d\.com
-stats\.unity3d\.com
-webview\.unityads\.unity3d\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/254/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/123/
-device-api\.urbanairship\.com
-urbanairship\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/253/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/37/
+# Ultimedia
+ultimedia\.com
+# Umeng Analytics
+alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com
+# Umeng Common SDK logging
+plbslog\.umeng\.com|ouplog\.umeng\.com|cmnsguider\.yunos\.com|ulogs\.umeng\.com|alogsus\.umeng\.com|ulogs\.umengcloud\.com
+# Umeng Feedback
+alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com
+# Umeng Mobile tracking SDK
+# Umeng Push SDK
+100\.69\.165\.28|100\.69\.168\.33|110\.75\.98\.154|106\.11\.61\.135|106\.11\.61\.137|agoodm\.m\.taobao\.com|agoodm\.wapa\.taobao\.com|amdcopen\.m\.taobao\.com|amdc\.wapa\.taobao\.com|amdc\.taobao\.net|umengacs\.m\.taobao\.com|umengjmacs\.m\.taobao\.com
+# Unacast Pure
+# Unity3d Ads
+adserver\.unityads\.unity3d\.com|analytics\.social\.unity\.com|api\.uca\.cloud\.unity3d\.com|auction\.unityads\.unity3d\.com|cdn-highwinds\.unityads\.unity3d\.com|cdn\.unityads\.unity3d\.com|config\.uca\.cloud\.unity3d\.com|config\.unityads\.unity3d\.com|stats\.unity3d\.com|webview\.unityads\.unity3d\.com
+# Unknown Trackers
+# Upsight
+# Urbanairship
+device-api\.urbanairship\.com|urbanairship\.com
+# Usabilla by Salesforce
+# UserExperior
+# VKontakte SDK
+# VServ
+# Vdopia
+# Vectaury
 vectaury\.io
-# https://reports.exodus-privacy.eu.org/en/trackers/320/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/259/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/383/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/382/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/308/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/169/
-ads\.api\.vungle\.com
-akamai\.vungle\-cdn\.vungle\.com
-api\.vungle\.akadns\.net
-api\.vungle\.com
-bd\.vungle\.com
-billboard\.vungle\.com
-cdn\-lb\.vungle\.com
-ci\.vungle\.com
-data\.vungle\.com
-ingest\.vungle\.com
-jaeger\.vungle\.com
-ltv\-data\-api\.kube\-prod\.vungle\.com
-monitoring\.vungle\.com
-ssl\.vungle\.com
-v\.vungle\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/6/
-weborama\.fr
-weborama\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/239/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/129/
-dc\.webtrends\.com
-webtrends\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/76/
+# Veloxity
+# Venntel
+# Verizon Ads
+# Verve
+# Viewpoint Analytics
+# Virgo Mobile
+# Vivo Push SDK
+# Vodafone NetPerform
+# Vpon
+# Vungle
+ads\.api\.vungle\.com|akamai\.vungle\-cdn\.vungle\.com|api\.vungle\.akadns\.net|api\.vungle\.com|bd\.vungle\.com|billboard\.vungle\.com|cdn\-lb\.vungle\.com|ci\.vungle\.com|data\.vungle\.com|ingest\.vungle\.com|jaeger\.vungle\.com|ltv\-data\-api\.kube\-prod\.vungle\.com|monitoring\.vungle\.com|ssl\.vungle\.com|v\.vungle\.com
+# WalkMe/Abbi.io
+# Wannads
+# WapStart.Plus1
+# WeChat Location
 map\.qq\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/14/
+# Weborama
+weborama\.fr|weborama\.net
+# Webtrekk
+# Webtrends
+dc\.webtrends\.com|webtrends\.com
+# Weibo DeviceID
+# Widespace
 widespace\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/234/
-.wootric\.com\.herokudns\.com
-wootric\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/10/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/354/
-api\.myendpoint\.io
-bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com
-api\.smartechmetrics\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/124/
-analytics\.mobile\.yandex\.net
-appmetrica\.yandex\.com
-banners-slb\.mobile\.yandex\.net
-banners\.mobile\.yandex\.net
-mc\.yandex\.ru
-report\.appmetrica\.yandex\.net
-startup\.mobile\.yandex\.net
-# https://reports.exodus-privacy.eu.org/en/trackers/212/
+# WonderPush
+api.wonderpush.com
+# Woopra
+# Woorlds
+# Wootric
+.wootric\.com\.herokudns\.com|wootric\.com
+# X-Mode
+api\.myendpoint\.io|bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com|api\.smartechmetrics\.com
+# Xiaomi Push Service
+app\.chat\.xiaomi\.net|42\.62\.94\.2|114\.54\.23\.2|111\.13\.142\.2|111\.206\.200\.2
+# Xiti
+# YOC VIS.X
+yoc-performance\.com|yoc\.com
+# Yahoo!Japan DataShare
+# Yandex Ad
+analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net
+# Yext
+# Yinzcam Sobek
 analytics\.yinzcam\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/364/
-yoc-performance\.com
-yoc\.com
-# https://reports.exodus-privacy.eu.org/en/trackers/228/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/309/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/310/
+# Yoadx
+# YouAppi
+# Yougoodtech
+# Youmi
+aos\.wall\.youmi\.net|au\.youmi\.net|youmi\.net
+# YuMe
+# Zapr
 .zapr\.in
-# https://reports.exodus-privacy.eu.org/en/trackers/414/
-# No rule found
-# https://reports.exodus-privacy.eu.org/en/trackers/384/
-# No rule found
+# Zendesk
+# Zendrive
+# Zenjoy
+# Zoho Analytics
+# Zucks
+zucks\.net
+# adPOPcorn
+# adboost
+# appPlant
+# appTV
+# appgeneration
+# ayeT-Studios
+# beaconstac/NearBee (MobStac Inc.)
+# buddybuild
+# deltaDNA
+deltadna\.net
+# deploygate
+# devtodev
+# fineboost
+# flymob
+# froger_mcs
+# fullstory
+# iridge popinfo
+# ironSource
+# mParticle
+mparticle\.com
+# mTraction (mFaaS)
+# maio by i-mobile
+# mediba
+# mobilda (Mars Media Group)
+# myTarget
+.target\.my\.com
+# myTracker
+tracker-api\.my\.com
+# nend
+# netmera
+# permutive
+# pinable
+# tabtale
