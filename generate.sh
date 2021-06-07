@@ -4,7 +4,7 @@ TRACKER_LIST_URL=https://etip.exodus-privacy.eu.org/trackers/export
 OUTPUT_PATH=./list/exodus-pihole.txt
 NO_COMMENT_PATH=./list/exodus-pihole.no-comment.txt
 
-echo "# Generated on `date +'%D %T'`" > $OUTPUT_PATH
+rm $OUTPUT_PATH
 
 curl -s $TRACKER_LIST_URL | jq '.trackers[].network_signature' -cr | while read -r domain
 do
