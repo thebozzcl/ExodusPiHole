@@ -6,7 +6,7 @@ NO_COMMENT_PATH=./list/exodus-pihole.no-comment.txt
 
 echo "# Generated on `date +'%D %T'`" > $OUTPUT_PATH
 
-curl -s $TRACKER_LIST_URL | jq '.trackers[].network_signature' -cr | sed 's/|/\n/g' | while read -r domain
+curl -s $TRACKER_LIST_URL | jq '.trackers[].network_signature' -cr | while read -r domain
 do
         if [[ $domain = "" ]]
         then
