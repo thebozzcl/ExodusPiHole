@@ -1,969 +1,715 @@
-# Generated on 06/06/21 10:50:50
-# 360Dialog
-# 39Geopla
-# 3bitter Beacon
-# ABTasty
+# Generated on 06/06/21 19:41:26
 abtasty\.com
-# ACRA
-# ACRCloud
-acrcloud.com|hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-# ADLIB
+acrcloud.com
+hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 adlibr\.com
-# ADOP
-# AIHelp
-# AMoAd
-# APICloud
-# ATInternet
 ati-host\.net
-# AWS Kinesis
-# Aarki
-# AccountKit
 graph\.accountkit\.com
-# Acrarium
-# Actv8me
 actv8technologies\.com
-# Acuant
-frm\.acuant\.net|medicscan\.acuant\.net|services\.assureid\.net
-# Ad Generation
-# Ad2
-# Ad4Game
+frm\.acuant\.net
+medicscan\.acuant\.net
+services\.assureid\.net
 ad4game\.com
-# Ad4Screen
-a4\.tl|accengage\.com|ad4push\.com|ad4screen\.com
-# AdAdapted
+a4\.tl
+accengage\.com
+ad4push\.com
+ad4screen\.com
 ads\.adadapted\.com
-# AdBuddiz
 sdk\.adbuddiz\.com
-# AdColony
-adc3-launch\.adcolony\.com|adcolony\.com|ads30\.adcolony\.com|androidads20\.adcolony\.com|androidads21\.adcolony\.com|androidads23\.adcolony\.com|events3alt\.adcolony\.com|wd\.adcolony\.com
-# AdFalcon
-# AdFit (Daum)
-analytics\.ad\.daum\.net|statistics\.videofarm\.daum\.net
-# AdFlex
-# AdGateMedia
-# AdGem
-# AdLocus
-# AdMarvel
-# AdMuing
-# AdTech
-# AdTheorent
-adtheorent\.com|bm\.adentifi\.com|rtb\.adentifi\.com
-# AdTiming
-# AdTrial
-# AdWhirl (AdMob)
-# Adbrix
+adc3-launch\.adcolony\.com
+adcolony\.com
+ads30\.adcolony\.com
+androidads20\.adcolony\.com
+androidads21\.adcolony\.com
+androidads23\.adcolony\.com
+events3alt\.adcolony\.com
+wd\.adcolony\.com
+analytics\.ad\.daum\.net
+statistics\.videofarm\.daum\.net
+adtheorent\.com
+bm\.adentifi\.com
+rtb\.adentifi\.com
 ad-brix\.com
-# Adcash
-# Adcenix
-# Adchina
-# Add Apt Tr
 aatkit\.com
-# Adflake
-api\.adflake\.com|metrics\.adflake\.com
-# Adform
-adform\.com|adformdsp\.net|adx\.adform\.net|files\.adform\.net|track\.adform\.net
-# Adfurikun
-adfurikun\.jp|ginf\.adfurikun\.jp
-# Adincube
+api\.adflake\.com
+metrics\.adflake\.com
+adform\.com
+adformdsp\.net
+adx\.adform\.net
+files\.adform\.net
+track\.adform\.net
+adfurikun\.jp
+ginf\.adfurikun\.jp
 sdk\.adincube\.com
-# Adjoe
-# Adjust
-adj\.st|adjust\.com
-# Adjust Unbotify
-# Admitad
+adj\.st
+adjust\.com
 .*\.admitad.com
-# Admixer
 admixer\.co\.kr
-# Admost
-cdn\-api\.admost\.com|go\.admost\.com|med\-api\.admost\.com
-# Adobe Experience Cloud
-# Adot
-sdk\.adotmob\.com|sync\.adotmob\.com|tracker\.adotmob\.com
-# AdsWizz
-adswizz\.com|cdn\.adswizz.com\.edgesuite\.net
-# Adscend Media
-# Advangelists
-# Adzerk
-adzerk\.com|adzerk\.net|engine\.adzerk\.net|static\.adzerk\.net
-# AerServ
-ads\.aerserv\.com|debug\.aerserv\.com
-# Agoop
-# Agora Analytics
-# Ai.type *Malverting related
-# Airbridge
-# Airpush
-api\.airpush\.com|apidm\.airpush\.com|apistaging\.airpush\.com|apportal\.airpush\.com|appwall\.api\.airpush\.com|beta\.airpush\.com|cdnap\.airpush\.com|m\.airpush\.com
-# Akamai MAP
-# Alibaba Cloud Messaging
+cdn\-api\.admost\.com
+go\.admost\.com
+med\-api\.admost\.com
+sdk\.adotmob\.com
+sync\.adotmob\.com
+tracker\.adotmob\.com
+adswizz\.com
+cdn\.adswizz.com\.edgesuite\.net
+adzerk\.com
+adzerk\.net
+engine\.adzerk\.net
+static\.adzerk\.net
+ads\.aerserv\.com
+debug\.aerserv\.com
+api\.airpush\.com
+apidm\.airpush\.com
+apistaging\.airpush\.com
+apportal\.airpush\.com
+appwall\.api\.airpush\.com
+beta\.airpush\.com
+cdnap\.airpush\.com
+m\.airpush\.com
 mns\..*\.aliyuncs\.com
-# Alibaba HTTPDNS
-httpdns-sc\.aliyuncs\.com|203\.107\.1\.97|203\.107\.1\.100|203\.107\.1\.1
-# Alibaba UserTrack Device IDentity (UTDID)
-# Alibaba analytics
-# Alimama (formerly AdsMogo)
-\.alimama\.|\.adsmogo\.
-# Alipay SDK
-# Alohalytics
-# Alooma
+httpdns-sc\.aliyuncs\.com
+203\.107\.1\.97
+203\.107\.1\.100
+203\.107\.1\.1
+\.alimama\.
+\.adsmogo\.
 inputs\.alooma\.com
-# Alphonso
-api\.alphonso\.tv|prov\.alphonso\.tv
-# AltBeacon
-# Altamob
+api\.alphonso\.tv
+prov\.alphonso\.tv
 api\.altamob\.com
-# Amazon Advertisement
-# Amazon Analytics (Amazon insights)
 mobileanalytics\.us-east-1\.amazonaws\.com
-# Amazon GameCircle
-# Amazon Mobile Analytics - Amplify
-# Amazon Mobile Associates
-# Amobee
 amobee\.com
-# Amplitude
-amplitude\.com|api\.amplitude\.com
-# Anagog
-# Analytics by NPAW (Youbora Suite)
-# Anet channel library
-amdc\.m\.taobao\.com|amdc\.wapa\.taobao\.com|amdc\.taobao\.net|dorangesource\.alicdn\.com|guide-acs\.m\.taobao\.com|gw\.alicdn\.com|ossgw\.alicdn\.com
-# Anvato (A Google Company)
+amplitude\.com
+api\.amplitude\.com
+amdc\.m\.taobao\.com
+amdc\.wapa\.taobao\.com
+amdc\.taobao\.net
+dorangesource\.alicdn\.com
+guide-acs\.m\.taobao\.com
+gw\.alicdn\.com
+ossgw\.alicdn\.com
 .*\.anvato\.net
-# AnySDK
-# Anzu
-# Aotter
 aotter\.net
-# App Samurai
-# AppAnalytics
-# AppBrain
 sdk\.appbrain\.com
-# AppConsent CMP
-# AppLink.io
-# AppLovin (MAX and SparkLabs)
-applovin\.com|applvn\.com
-# AppMetrica
-analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net
-# AppMonet
-# AppNexus
-247realmedia\.com|adnxs\.com|appnexus\.com|appnexus\.net
-# AppOnboard (Enterprise + Studio)
-# AppRight (by Gryphonet)
-# AppSee
+applovin\.com
+applvn\.com
+analytics\.mobile\.yandex\.net
+appmetrica\.yandex\.com
+banners-slb\.mobile\.yandex\.net
+banners\.mobile\.yandex\.net
+mc\.yandex\.ru
+report\.appmetrica\.yandex\.net
+startup\.mobile\.yandex\.net
+247realmedia\.com
+adnxs\.com
+appnexus\.com
+appnexus\.net
 api\.appsee\.com
-# AppVador
-# AppZilo
-# Appcelerator Analytics
-appcelerator\.com|appcelerator\.net
-# Appdynamics
-# Appenda
-# Apperhand
-# Appirits
-# Applause
-# Applift
-# Appnext
+appcelerator\.com
+appcelerator\.net
 appnext.com
-# Appodeal
-appodeal\.com|appodealx\.com
-# Appodeal Stack
-# AppsFlyer
+appodeal\.com
+appodealx\.com
 appsflyer\.com
-# AppsGeyser
-# Apptentive
 api\.apptentive\.com
-# Apptimize
-brahe\.apptimize\.com|md-a-c\.apptimize\.com|md-a-s\.apptimize\.com
-# Apsalar
-e-ssl\.apsalar\.com|e\.apsalar\.com
-# Apteligent by VMWare (formerly Crittercism)
-api\.crittercism\.com|appload\.ingest\.crittercism\.com|txn\.ingest\.crittercism\.com
-# Areametrics
+brahe\.apptimize\.com
+md-a-c\.apptimize\.com
+md-a-s\.apptimize\.com
+e-ssl\.apsalar\.com
+e\.apsalar\.com
+api\.crittercism\.com
+appload\.ingest\.crittercism\.com
+txn\.ingest\.crittercism\.com
 areametrics\.com
-# Askingpoint
-# Audience Studio (Krux)
 krxd\.net
-# Auditude
 auditude\.com
-# AutoNavi / Amap
-grid\.amap\.com|tm\.amap\.com|mst[0-9]*\.is\.autonavi\.com|mt[0-9]*\.google\.cn|abroad\.apilocate\.amap\.com|apilocate\.amap\.com|restapi\.amap\.com|yuntuapi\.amap\.com|m5\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|wb\.amap\.com|apiinit\.amap\.com|restapi\.amap\.com|logs\.amap\.com|cgicol\.amap\.com|lbs\.amap\.com|wap\.amap\.com
-# Avazu aNative
+grid\.amap\.com
+tm\.amap\.com
+mst[0-9]*\.is\.autonavi\.com
+mt[0-9]*\.google\.cn
+abroad\.apilocate\.amap\.com
+apilocate\.amap\.com
+restapi\.amap\.com
+yuntuapi\.amap\.com
+m5\.amap\.com
+wb\.amap\.com
+wb\.amap\.com
+wb\.amap\.com
+wb\.amap\.com
+apiinit\.amap\.com
+restapi\.amap\.com
+logs\.amap\.com
+cgicol\.amap\.com
+lbs\.amap\.com
+wap\.amap\.com
 avazutracking\.net
-# Axonix
-ads\.mobclix\.com|axonix\.com|data\.mobclix\.com|mobclix\.com|s\.mobclix\.com
-# B4A
-# Babator
-# Babel Street (Babel X, Locate X, Babel Box)
-# Backelite
+ads\.mobclix\.com
+axonix\.com
+data\.mobclix\.com
+mobclix\.com
+s\.mobclix\.com
 backelite\.com
-# Backendless
-# Backtrace
 backtrace\.io
-# Baidu APPX
-# Baidu Crash Reporter
-# Baidu Location
-# Baidu Map
-# Baidu Maps
 map\.baidu\.com
-# Baidu Mobile Ads
-# Baidu Mobile Stat
-# Baidu Navigation
-# Batch
 batch\.com
-# Bazaarvoice
-# BeaconBank
-# BeaconsInSpace (Fysical)
-# Beemray
-# Beintoo
-# BidMachine
-# BitLabs
-# Bitly
-# Blesh
-# BlueConic
-# BlueKai (acquired by Oracle)
-stags\.bluekai\.com|tags\.bluekai\.com
-# Bluecats
-# Bolts
-# Branch
+stags\.bluekai\.com
+tags\.bluekai\.com
 api\.branch\.io
-# Brandio
-# Braze (formerly Appboy)
 appboy\.com
-# Brightcove
 metrics\.brightcove\.com
-# BugClipper
-# BugSense
-# Bugfender
-# Buglife
-# Bugly
 bugly\.qq\.com
-# Bugsee
-# Bugsnag
-# Buildbox (AppOnboard)
-# Button
 \.usebutton.com
-# BuzzAd Benefit
-# Byyd (Adfonic)
-# CallDorado
-# CaramelAds
-# Carnival
 devices\.carnivalmobile\.com
-# Carto (formerly Nutiteq)
-# Cauly
 ad\.cauly\.co\.kr
-# Cedexis Radar
-cedexis\-radar\.net|cedexis\.com|radar\.cedexis\.com
-# ChartBoost
+cedexis\-radar\.net
+cedexis\.com
+radar\.cedexis\.com
 \.chartboost\.com
-# Chartbeat
-.chartbeat\.com|.chartbeat\.net
-# Cheetah Ads
+.chartbeat\.com
+.chartbeat\.net
 cmcm\.com
-# Cifrasoft
 \.tele\.fm
-# CleanInsights
-# ClearBlade
-# CleverTap
 wzrkt\.com
-# Cloudmobi
-api\.cloudmobi\.net|cloudmobi\.net|logger\.cloudmobi\.net|vast\.cloudmobi\.net
-# Colocator
+api\.cloudmobi\.net
+cloudmobi\.net
+logger\.cloudmobi\.net
+vast\.cloudmobi\.net
 colocator\.net
-# ComScore
 comscore\.com
-# Complementics
-# Contentsquare
-# Conversant
 conversantmedia\.com
-# Conviva
 cws\.conviva\.com
-# CoolaData
-# Countly
-# CrashSDK
-# Criteo
 criteo\.com
-# Critic
-# CrowdTangle
 api\.crowdtangle\.com
-# Cuebiq
 cuebiq\.com
-# Custom Activity On Crash
-# DOV-E
 \.dov-e\.com
-# DaoCheng(Thinkyeah)
-# Databox
-# Dawin
-adotsolution\.com|click\.dawin\.tv
-# DearOne(LocationValue)
-# DebugDrawer
-# Demdex
+adotsolution\.com
+click\.dawin\.tv
 demdex\.net
-# Didomi
-# Digital Union (shuzilm)
-# Display
 display.io
-# Duapps
 duapps\.com
-# Dynamic Yield
-adm\.dynamicyield\.com|api\.dynamicyield\.com|cdn\.dynamicyield\.com|px\.dynamicyield\.com|st\.dynamicyield\.com
-# Dynatrace
+adm\.dynamicyield\.com
+api\.dynamicyield\.com
+cdn\.dynamicyield\.com
+px\.dynamicyield\.com
+st\.dynamicyield\.com
 \.dynatrace\.com
-# EVRYTHNG
 mqtt\.evrythng\.com
-# Ehawk
 ehawk\.com
-# Elephant Data
-# Emarsys Predict
 recommender\.scarabresearch\.com
-# Embrace
-# Enhance
-app-config\.enhance\.co|data-location\.enhance\.co
-# Ensighten
+app-config\.enhance\.co
+data-location\.enhance\.co
 nexus\.ensighten\.com
-# Epic games analytics
-# Esri ArcGIS
-# Estimote
 .*\.estimote\.com
-# Eulerian
 eulerian\.com
-# Evidon (now Crownpeak)
 c\.betrad\.com
-# ExactTarget
 \.exacttarget\.
-# Exelate (A Nielsen Company)
 loadus\.exelator\.com
-# Exponea
-api.infinario.com|sygic-api.infinario.com
-# Eyewind
-# F.O.X(appadforce)
-# FLUZO
-# Facebook Ads
+api.infinario.com
+sygic-api.infinario.com
 \.facebook\.com
-# Facebook Analytics
 \.facebook\.com
-# Facebook Audience
 \.facebook\.com
-# Facebook Flipper
-# Facebook Login
 \.facebook\.com
-# Facebook Notifications
 \.facebook\.com
-# Facebook Places
 \.facebook\.com
-# Facebook Share
 \.facebook\.com
-# Factual
 api.factual.com
-# FidZup
 fidzup
-# Fiksu
-a\.fiksu\.com|sdk\.fiksu\.com
-# Flatiron Media
-# FlowUp
-# Flowsense
-# FluctSDK
-# Flurry
+a\.fiksu\.com
+sdk\.fiksu\.com
 flurry\.com
-# FollowAnalytics
 sdk\.follow-apps\.com
-# Footmarks
-# Foresee
-4seeresults\.com|analytics\.foresee\.com|foresee\.com|foreseeresults\.com|i\.4see\.mobi|rec\.replay\.answerscloud\.com
-# FreeWheel
+4seeresults\.com
+analytics\.foresee\.com
+foresee\.com
+foreseeresults\.com
+i\.4see\.mobi
+rec\.replay\.answerscloud\.com
 fwmrm\.net
-# Fyber
-adproxy\.fyber\.com|appengage-video\.fyber\.com|banner\.fyber\.com|engine\.fyber\.com|interstitial\.fyber\.com|mbe-cdn\.fyber\.com|offer\.fyber\.com|service\.fyber\.com|tracker\.fyber\.com|video-interstitial-assets-cdn\.fyber\.com|video\.fyber\.com
-# Fyber SponsorPay
-appengage-video\.sponsorpay\.com|cdn1\.sponsorpay\.com|cdn2\.sponsorpay\.com|cdn3\.sponsorpay\.com|cdn4\.sponsorpay\.com|engine\.sponsorpay\.com
-# GIPHY Analytics
-api\.giphy\.com|pingback\.giphy\.com
-# GMobi - Go2Reach (General Mobile Corporation)
+adproxy\.fyber\.com
+appengage-video\.fyber\.com
+banner\.fyber\.com
+engine\.fyber\.com
+interstitial\.fyber\.com
+mbe-cdn\.fyber\.com
+offer\.fyber\.com
+service\.fyber\.com
+tracker\.fyber\.com
+video-interstitial-assets-cdn\.fyber\.com
+video\.fyber\.com
+appengage-video\.sponsorpay\.com
+cdn1\.sponsorpay\.com
+cdn2\.sponsorpay\.com
+cdn3\.sponsorpay\.com
+cdn4\.sponsorpay\.com
+engine\.sponsorpay\.com
+api\.giphy\.com
+pingback\.giphy\.com
 api\.generalmobi\.com
-# GOM Factory AdPie
-# GPA KOREA
 com.gad.sdk.
-# GPShopper
-sdk\.gpshopper\.com|sypi\.gpshopper\.com
-# Gamania Beanfun
-# Game Sparks
-# GameAnalytics
-# Gameloft
+sdk\.gpshopper\.com
+sypi\.gpshopper\.com
 gameloft/
-# Gemius HeatMap
 gemius\.pl
-# Geniee
-# GeoUniq (Cloud4Win)
-# GetCake (CAKE)
-# Gigya
-cdn1\.gigya\.com|cdn2\.gigya\.com|cdn3\.gigya\.com|cdn\.gigya\.com|cdns\.us1\.gigya\.com
-# Gimbal
-analytics-server\.gimbal\.com|api\.gimbal\.com|registration\.gimbal\.com|sdk-info\.gimbal\.com
-# Glassbox
+cdn1\.gigya\.com
+cdn2\.gigya\.com
+cdn3\.gigya\.com
+cdn\.gigya\.com
+cdns\.us1\.gigya\.com
+analytics-server\.gimbal\.com
+api\.gimbal\.com
+registration\.gimbal\.com
+sdk-info\.gimbal\.com
 .*\.glassboxdigital\.io
-# Glispa Connect (Formerly Avocarrot)
-\.avocarrot\.com|ads\.glispa\.com|exp\.glispa\.com|rtb\.platform\.glispa\.com|templates\.glispaconnect\.com|trk\.glispa\.com
-# Glympse
+\.avocarrot\.com
+ads\.glispa\.com
+exp\.glispa\.com
+rtb\.platform\.glispa\.com
+templates\.glispaconnect\.com
+trk\.glispa\.com
 \.glympse\.com
-# Google AdMob
-2mdn\.net|\.google\.com|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com
-# Google Ads
+2mdn\.net
 \.google\.com
-# Google Analytics
+dmtry\.com
+doubleclick\.com
+doubleclick\.net
+mng-ads\.com
+\.google\.com
 google-analytics\.com
-# Google Analytics Plugin (Cordova)
-# Google Awareness
-# Google Cloud Audit
 cloudaudit\.googleapis\.com
-# Google CrashLytics
 crashlytics\.com
-# Google DoubleClick
-2mdn\.net|dmtry\.com|doubleclick\.com|doubleclick\.net|mng-ads\.com
-# Google Firebase Analytics
+2mdn\.net
+dmtry\.com
+doubleclick\.com
+doubleclick\.net
+mng-ads\.com
 firebase\.com
-# Google Play Billing Library / Service
-# Google Tag Manager
-www\.googletagmanager\.com|www\.googletagservices\.com
-# Grab Analytics
-# Gravy Analytics
-api\.findgravy\.com|ws\.findgravy\.com
-# GreedyGame
-# GreenRobot
-# GroundTruth
-# GrowingIO
-# Growth Push
-# Heap
+www\.googletagmanager\.com
+www\.googletagservices\.com
+api\.findgravy\.com
+ws\.findgravy\.com
 heapanalytics.com
-# HelpShift
 helpshift\.com
-# Herow
-# HeyTap
-# Heyzap (bought by Fyber)
-ads\.heyzap\.com|fyc\.heyzap\.com|img-cloudflare-2\.haizap\.com|img-cloudflare\.haizap\.com|med\.heyzap\.com|x\.heyzap\.com
-# HockeyApp
+ads\.heyzap\.com
+fyc\.heyzap\.com
+img-cloudflare-2\.haizap\.com
+img-cloudflare\.haizap\.com
+med\.heyzap\.com
+x\.heyzap\.com
 hockeyapp\.net
-# Hotmob SDK
-# Houndify
 houndify\.com
-# Houseads
-# Huawei Mobile Services (HMS) Core
-# Huq Sourcekit
-# HyperTrack
-api\.hypertrack\.com|hypertrack\.amazonaws\.com|trck\.at
-# HyprMX
+api\.hypertrack\.com
+hypertrack\.amazonaws\.com
+trck\.at
 hyprmx\.com
-# IAB Open Measurement
-# IAC
-# IBM Digital Analytics
 data\.de\.coremetrics\.com
-# IBM Mobile Marketing (Acoustic)
 sdk6\.ibm\.xtify\.com
-# IGG.com
-# INFOnline
 de\.ioam\.de
-# IPQualityScore
 ipqualityscore\.com
-# IQV
-# IQzone
-# In Loco
 inlocomedia\.com
-# InBrainSurveys SDK
-# InMarket
 m2m-api\.inmarket\.com
-# IndoorAtlas
 ipsws\.indooratlas\.com
-# Inmobi
-c\.w\.inmobi\.com|china\.inmobi\.com|config-ltvp\.inmobi\.com|config\.inmobi\.com|et\.w\.inmobi\.com|i\.l\.inmobicdn\.net|i\.w\.inmobi\.com|inmobi\.cn|inmobi\.com|inmobi\.info|inmobi\.net|inmobi\.us|inmobicdn\.com|inmobicdn\.net|inmobisdk\-a\.akamaihd\.net|japan\.inmobi\.com|r\.w\.inmobi\.com|sdkm\.w\.inmobi\.com|sdktm\.w\.inmobi\.com|w\.inmobi\.com
-# Inneractive
-# Inrix
-inrix\.com|inrix\.io
-# Insider
-# Instabug
-# Instal
-# Instreamatic (Adman)
+c\.w\.inmobi\.com
+china\.inmobi\.com
+config-ltvp\.inmobi\.com
+config\.inmobi\.com
+et\.w\.inmobi\.com
+i\.l\.inmobicdn\.net
+i\.w\.inmobi\.com
+inmobi\.cn
+inmobi\.com
+inmobi\.info
+inmobi\.net
+inmobi\.us
+inmobicdn\.com
+inmobicdn\.net
+inmobisdk\-a\.akamaihd\.net
+japan\.inmobi\.com
+r\.w\.inmobi\.com
+sdkm\.w\.inmobi\.com
+sdktm\.w\.inmobi\.com
+w\.inmobi\.com
+inrix\.com
+inrix\.io
 instreamatic\.com
-# Integral Ad Science
-adsafeprotected\.com|iasds01\.com|integralads\.com
-# Intrasonics
-# IntroMi
-# Ironsource mobileCore
-# JW Player
-g\.jwpsrv\.com|jwpltx\.com|p\.jwpcdn\.com
-# Janrain
-# JiGuang Aurora Mobile JPush
+adsafeprotected\.com
+iasds01\.com
+integralads\.com
+g\.jwpsrv\.com
+jwpltx\.com
+p\.jwpcdn\.com
 .*\.jiguang\.cn
-# Jolt
-# Jumio
-mobile-sdk-resources.jumio.com|nv-sdk.jumio.com
-# JumpTap
-# KARTE
-# KIDOZ
-# KakaoTalk Link
-.*kauth\.kakao\.com|.*kapi\.kakao\.com|.*kauth\.kakao\.com|.*wguide\.kakao\.com|.*kauth\.kakao\.com|.*sharer\.kakao\.com
-# Keen
+mobile-sdk-resources.jumio.com
+nv-sdk.jumio.com
+.*kauth\.kakao\.com
+.*kapi\.kakao\.com
+.*kauth\.kakao\.com
+.*wguide\.kakao\.com
+.*kauth\.kakao\.com
+.*sharer\.kakao\.com
 api\.keen\.io
-# Kiip
 kiip\.me
-# Kissmetrics
-# Kochava
-control\.kochava\.com|kvinit\-prod\.api\.kochava\.com
-# Komli Mobile (ZestAdz)
-# Kontakt
+control\.kochava\.com
+kvinit\-prod\.api\.kochava\.com
 kontakt\.io
-# LeadBolt
-# LeanPlum
 leanplum\.com
-# Lenddo
 \.partner-service\.link
-# Ligatus
 ligatus\.com
-# Lisnr
 lisnr\.com
-# Localytics
-analytics\.localytics\.com|manifest\.localytics\.com|profile\.localytics\.com|sdk-assets\.localytics\.com
-# Locuslabs
+analytics\.localytics\.com
+manifest\.localytics\.com
+profile\.localytics\.com
+sdk-assets\.localytics\.com
 locuslabs\.com
-# Loggly
 loggly\.com
-# LoopMe
-# LotaData
-# Lotame
 ad\.crwdcntrl\.net
-# MAdvertise
-dispatcher\.mng\-ads\.com|mobile\.mng\-ads\.com
-# MDOTM
+dispatcher\.mng\-ads\.com
+mobile\.mng\-ads\.com
 ads\.mdotm\.com
-# MOCA
 api-device\.mocaplatform\.com
-# Madhouse
-# Mail.ru
-# Malverting/Adfrauds
-# Malverting/Adfrauds#2
-# Mapbox
-a\.tiles\.mapbox\.com|api\.tiles\.mapbox\.com
-# Marketo (an Adobe Company)
-marketo\.com|marketo\.net|mktoedge\.com|mktossl\.com
-# Matomo (Piwik)
+a\.tiles\.mapbox\.com
+api\.tiles\.mapbox\.com
+marketo\.com
+marketo\.net
+mktoedge\.com
+mktossl\.com
 matomo\.org
-# MediaMath
 pixel.mathtag.com
-# Metaps
-# Metrics
-# Mezzomedia AD Platform
-# Microsoft Azure
-# Microsoft Visual Studio App Center Analytics
-# Microsoft Visual Studio App Center Crashes
-# Millennial Media
-adtech\.de|contextual\.media\.net|media\.net|millennialmedia\.com
-# Mintegral
-analytics\.rayjump\.com|cdn-adn\.rayjump\.com|de01\.rayjump\.com|de\.rayjump\.com|detect\.rayjump\.com|fk-mtrack\.rayjump\.com|hybird\.rayjump\.com|jssdk\.rayjump\.com|net\.rayjump\.com|online\.rayjump\.com|rayjump\.com|setting\.rayjump\.com|sg-mtrack\.rayjump\.com|sg01\.rayjump\.com|sg\.rayjump\.com|tknet\.rayjump\.com|us01\.rayjump\.com
-# MixPanel
-api\.mixpanel\.com|decide\.mixpanel\.com|mixpanel\.com|switchboard\.mixpanel\.com
-# MoEngage
+adtech\.de
+contextual\.media\.net
+media\.net
+millennialmedia\.com
+analytics\.rayjump\.com
+cdn-adn\.rayjump\.com
+de01\.rayjump\.com
+de\.rayjump\.com
+detect\.rayjump\.com
+fk-mtrack\.rayjump\.com
+hybird\.rayjump\.com
+jssdk\.rayjump\.com
+net\.rayjump\.com
+online\.rayjump\.com
+rayjump\.com
+setting\.rayjump\.com
+sg-mtrack\.rayjump\.com
+sg01\.rayjump\.com
+sg\.rayjump\.com
+tknet\.rayjump\.com
+us01\.rayjump\.com
+api\.mixpanel\.com
+decide\.mixpanel\.com
+mixpanel\.com
+switchboard\.mixpanel\.com
 apiv2\.moengage\.com
-# Moat
-apx\.moatads\.com|geo\.moatads\.com|js\.moatads\.com|mb\.moatads\.com|moat\.com|pixel\.moatads\.com|px\.moatads\.com|sejs\.moatads\.com|yt\.moatads\.com|yts\.moatads\.com|z\.moatads\.com
-# MobFox
-# MobPower
-api\.mobpowertech\.com|log\.mobpowertech\.com|mobpowertech\.com|scheme\.mobpowertech\.com
-# Mobclick
-# Mobile Engagement
-login\.microsoftonline\.com|management\.azure\.com
-# Mobiquity Networks
-# Mobknow SDK
-# Moblin
-# Mobon SDK
-# Mobvista
+apx\.moatads\.com
+geo\.moatads\.com
+js\.moatads\.com
+mb\.moatads\.com
+moat\.com
+pixel\.moatads\.com
+px\.moatads\.com
+sejs\.moatads\.com
+yt\.moatads\.com
+yts\.moatads\.com
+z\.moatads\.com
+api\.mobpowertech\.com
+log\.mobpowertech\.com
+mobpowertech\.com
+scheme\.mobpowertech\.com
+login\.microsoftonline\.com
+management\.azure\.com
 mobvista\.com
-# Mofiler
-# Mojise
-# Moodmedia
 moodpresence\.com
-# Mopinion
-# Morgoo Packer
-# Mozilla Crashreport
-# Mozilla Telemetry
-# NativeX
 nativex\.com
-# NetVelocity Passive SDK
-# New Relic
-js-agent\.newrelic\.com|mobile-collector\.newrelic\.com|newrelic\.com|nr-data\.net
-# NewsPic
-# Nexage
+js-agent\.newrelic\.com
+mobile-collector\.newrelic\.com
+newrelic\.com
+nr-data\.net
 nexage\.com
-# Nielsen
-# Ninja Metics
-# Noah Pass
-# NoxMobi(AiAdMobi)
-# Number Analytics
-# ONEstore
 onesto\.re
-# OfferToro
-# Ogury
-# Ogury Presage
 presage\.io
-# Omniture
-omniture\.com|omtrdc\.net
-# OneAudience
-# OneSignal
+omniture\.com
+omtrdc\.net
 onesignal\.com
-# Onetrust
-# Ooyala
 ooyala\.com
-# OpenBack
-# OpenLocate
 api\.safegraph\.com
-# OpenTelemetry (OpenCensus, OpenTracing)
-# OpenUDID
-# OpenX
-openx\.com|openx\.net|openx\.org|us-ads\.openx\.net
-# Openalliance (Huawei ads kit)
-# Opensignal
-# Opentracker
+openx\.com
+openx\.net
+openx\.org
+us-ads\.openx\.net
 app\.opentracker\.net
-# Optimizely
 optimizely\.com
-# OtherLevels
-api\.otherlevels\.com|geodata\.otherlevels\.com|mdn\.otherlevels\.com|rich\.otherlevels\.com|tags\.otherlevels\.com|ws\.otherlevels\.com
-# OutBrain
+api\.otherlevels\.com
+geodata\.otherlevels\.com
+mdn\.otherlevels\.com
+rich\.otherlevels\.com
+tags\.otherlevels\.com
+ws\.otherlevels\.com
 outbrain\.com
-# OzTAM
 deliver.oztam.com.au
-# PEANUT LABS
-# POKKT
-# Pangle
-# Papaya
 en\.papayamobile\.com
-# Parse
-# Parse.ly
-# PartyTrack
-# Pendo
-# Persona.ly
-dev-api\.persona\.ly|dev\.dsp\.persona\.ly|dev\.persona\.ly|dsp\.persona\.ly|persona\.ly|rtb\.persona\.ly|sdk\.persona\.ly
-# Personograph
-# Phunware Advertising
-# Pilgrim by Foursquare
+dev-api\.persona\.ly
+dev\.dsp\.persona\.ly
+dev\.persona\.ly
+dsp\.persona\.ly
+persona\.ly
+rtb\.persona\.ly
+sdk\.persona\.ly
 sdk\.foursquare\.com
-# Pincrux
-# PingStart
 api\.pingstart\.com
-# Pinterest
-ct\.pinterest\.com|log\.pinterest\.com|trk\.pinterest\.com
-# Placed
-# Placer
-# PlayFab java
-# Playtestcloud
-# Plexure
-# Plleti
-# Point Inside
-# Pollfish
-# Pontiflex
-# Prebid Mobile
+ct\.pinterest\.com
+log\.pinterest\.com
+trk\.pinterest\.com
 .prebid.org
-# PredicIO
 sdk\.predic\.io
-# Profile Passport
-# Proximi.io
 api\.proximi\.fi
-# PubMatic
-ads\.pubmatic\.com|aktrack\.pubmatic\.com|gads\.pubmatic\.com|image2\.pubmatic\.com|simage2\.pubmatic\.com
-# PubNative
+ads\.pubmatic\.com
+aktrack\.pubmatic\.com
+gads\.pubmatic\.com
+image2\.pubmatic\.com
+simage2\.pubmatic\.com
 pubnative\.net
-# PubNub
 .*\.pubnub\.com
-# Pulsate
-# PushSpring
 api\.pushspring\.com
-# Pusher
-# Pushwoosh
 pushwoosh\.com
-# Pushy
-# Pyze
 pyze\.com
-# Qihoo Packer
-# Quadrant Data Acquisition SDK
-# Qualtrics
 qualtrics\.com
-# Quantcast
-quantcast\.com|quantcast\.net
-# Quantumgraph(QGraph)/Appier
-# Radar
-# Radius Networks
+quantcast\.com
+quantcast\.net
 proximitykit\.radiusnetworks\.com
-# Rakuten Analytics SDK
-# Rakuten Ready ARRIVE (Curbside)
-# Rakuten Unified Ads
-# Raygun
-# Receptiv (formerly Mediabrix)
-# Repro
-# Retency
-# Reveal Mobile
-# Revmob
-# RjFun
-# Rollbar
-# Roximity
 app\.roximity\.com
-# Rubicon Project
-ads\.rubiconproject\.com|fastlane\.rubiconproject\.com|optimized-by\.rubiconproject\.com|pixel\.rubiconproject\.com|stats\.aws\.rubiconproject\.com|tap2-cdn\.rubiconproject\.com|video-ads\.rubiconproject\.com
-# Rumble
-# S4M
-s4m\.io|sam4m\.com
-# SAS
-# SK planet Tad
-# SNS SDK(bytedance)
-i\.snssdk\.com|is\.snssdk\.com
-# Sailthru
+ads\.rubiconproject\.com
+fastlane\.rubiconproject\.com
+optimized-by\.rubiconproject\.com
+pixel\.rubiconproject\.com
+stats\.aws\.rubiconproject\.com
+tap2-cdn\.rubiconproject\.com
+video-ads\.rubiconproject\.com
+s4m\.io
+sam4m\.com
+i\.snssdk\.com
+is\.snssdk\.com
 .*\.sailthru\.com
-# Salesforce Marketing Cloud
-# SaySo Rewards
-# Scandit
 scandit\.com
-# Schibsted
-schibsted\.com|schibsted\.io
-# Score Card Research
+schibsted\.com
+schibsted\.io
 scorecardresearch\.com
-# ScoreLoop
-# Segment
-api\.segment\.io|segment\.com
-# Sense360
-android-quinoa-config-prod\.sense360eng\.com|incoming-data-sense360\.s3\.amazonaws\.com|quinoa-personal-identify-prod\.sense360eng\.com
-# Sensoro
-# Sensors Analytics
-# Sentiance
+api\.segment\.io
+segment\.com
+android-quinoa-config-prod\.sense360eng\.com
+incoming-data-sense360\.s3\.amazonaws\.com
+quinoa-personal-identify-prod\.sense360eng\.com
 api\.sentiance\.com
-# Sentry
-# ShallWeAD
-# Shopkick
-sdk\.shopkick\.com|shopkick\.com|shopkick\.de
-# Signal360
-signal360\.com|sonicnotify\.com
-# SignalFrame
-# SilverPush
-54\.243\.73\.253:8080/SilverPush/|silverpush\.co|silverpush\.com
-# SimilarWeb
-# Singlespot
+sdk\.shopkick\.com
+shopkick\.com
+shopkick\.de
+signal360\.com
+sonicnotify\.com
+54\.243\.73\.253:8080/SilverPush/
+silverpush\.co
+silverpush\.com
 singlespot\.com
-# Singular
-# Sino Weibo SDK
-widget\.weibo\.com|api\.weibo\.com|service\.weibo\.com|api\.weibo\.com|api\.weibo\.cn|weibo\.cn|open\.weibo\.cn|widget\.weibo\.com|service\.weibo\.com|app\.sina\.cn|weibo\.cn|m\.weibo\.cn|api\.weibo\.com|api\.weibo\.com
-# Situm SDK
-# Sizmek
+widget\.weibo\.com
+api\.weibo\.com
+service\.weibo\.com
+api\.weibo\.com
+api\.weibo\.cn
+weibo\.cn
+open\.weibo\.cn
+widget\.weibo\.com
+service\.weibo\.com
+app\.sina\.cn
+weibo\.cn
+m\.weibo\.cn
+api\.weibo\.com
+api\.weibo\.com
 serving-sys\.com
-# Skillz Android Unity
-# Skyhook
-# Smaato
-smaato\.net|soma\.smaato\.net
-# Smart
-adsrvr\.org|akamai\.smartadserver\.com|cdn1\.smartadserver\.com|diff2\.smartadserver\.com|diff3\.smartadserver\.com|diff\.smartadserver\.com|eqx\.smartadserver\.com|gallery\.smartadserver\.com|im2\.smartadserver\.com|insight\.adsrvr\.org|itx5-publicidad\.smartadserver\.com|itx5\.smartadserver\.com|js\.adsrvr\.org|match\.adsrvr\.org|preview\.smartadserver\.com|rtb-csync\.smartadserver\.com|saspreview\.com|smartadserver\.com|smartadserver\.ru|tmk\.smartadserver\.com|usw\-lax\.adsrvr\.org
-# SmartBeat
-# SmartLook
+smaato\.net
+soma\.smaato\.net
+adsrvr\.org
+akamai\.smartadserver\.com
+cdn1\.smartadserver\.com
+diff2\.smartadserver\.com
+diff3\.smartadserver\.com
+diff\.smartadserver\.com
+eqx\.smartadserver\.com
+gallery\.smartadserver\.com
+im2\.smartadserver\.com
+insight\.adsrvr\.org
+itx5-publicidad\.smartadserver\.com
+itx5\.smartadserver\.com
+js\.adsrvr\.org
+match\.adsrvr\.org
+preview\.smartadserver\.com
+rtb-csync\.smartadserver\.com
+saspreview\.com
+smartadserver\.com
+smartadserver\.ru
+tmk\.smartadserver\.com
+usw\-lax\.adsrvr\.org
 smartlook\.com
-# SmartyAds
-# Snap Ad Kit
-# Snapchat Login Kit
-# Snowplow
-# Solar2D (Corona)
-# Soomla
 soom\.la
-# Split
-event.split.io|sdk.split.io
-# Splunk MINT
-# Spoteer Arc
-# Spotify Advertising
-# Square Metrics
+event.split.io
+sdk.split.io
 api\.beaconinside\.com
-# Startapp
-c2i\.startappnetwork\.com|c2s\.startappnetwork\.com|click\.startappservice\.com|dts\.startappservice\.com|events\.startappservice\.com|images\.startappservice\.com|imp\.startappservice\.com|info\.static\.startappservice\.com|init\.startappservice\.com|req\.startappservice\.com|soda\.startappservice\.com|startappservice\.com|va\.origin\.startappservice\.com
-# SuperAwesome
-# Supership
-# Supersonic Ads
-click-haproxy\.supersonicads\.com|cx\.ssacdn\.com|init\.supersonicads\.com|logs\.supersonic\.com|outcome\.supersonicads\.com|ow-gateway\.supersonicads\.com|pixel-tracking\.sonic-us\.supersonicads\.com|rv-gateway\.supersonicads\.com|static\.ssacdn\.com|supersonic\.com|supersonicads-a\.akamaihd\.net|tag\-mediation.supersonic.com|ua\.supersonicads\.com|v\.ssacdn\.com|www\.supersonicads\.com
-# Swirl
+c2i\.startappnetwork\.com
+c2s\.startappnetwork\.com
+click\.startappservice\.com
+dts\.startappservice\.com
+events\.startappservice\.com
+images\.startappservice\.com
+imp\.startappservice\.com
+info\.static\.startappservice\.com
+init\.startappservice\.com
+req\.startappservice\.com
+soda\.startappservice\.com
+startappservice\.com
+va\.origin\.startappservice\.com
+click-haproxy\.supersonicads\.com
+cx\.ssacdn\.com
+init\.supersonicads\.com
+logs\.supersonic\.com
+outcome\.supersonicads\.com
+ow-gateway\.supersonicads\.com
+pixel-tracking\.sonic-us\.supersonicads\.com
+rv-gateway\.supersonicads\.com
+static\.ssacdn\.com
+supersonic\.com
+supersonicads-a\.akamaihd\.net
+tag\-mediation.supersonic.com
+ua\.supersonicads\.com
+v\.ssacdn\.com
+www\.supersonicads\.com
 cdn-api\.swirl\.com
-# Swrve
-api\.swrve\.com|content\.swrve\.com
-# Sync2Ad
+api\.swrve\.com
+content\.swrve\.com
 sync2ad\.com
-# Synerise
 synerise\.com
-# TAPTrack
-# TAmedia
-# TJHello ADEasy
-# TNK Factory
-# Taboola
 taboola\.com
-# TagCommander (Commanders Act.)
-\.commander1\.com|\.tagcommander.com
-# TalkingData
-account\.talkingdata\.com|av1\.xdrig\.com|cloud\.xdrig\.com|m\.talkingdata\.com|push\.xdrig\.com
-# Tamoco
+\.commander1\.com
+\.tagcommander.com
+account\.talkingdata\.com
+av1\.xdrig\.com
+cloud\.xdrig\.com
+m\.talkingdata\.com
+push\.xdrig\.com
 evt\.tamoco\.com
-# TapIt
-# TapReason
-# TapResearch
-# Tapad
-analytics\.tapad\.com|assets\.tapad\.com|pixel\.tapad\.com|tapestry\.tapad\.com
-# Tapdaq
+analytics\.tapad\.com
+assets\.tapad\.com
+pixel\.tapad\.com
+tapestry\.tapad\.com
 ads\.tapdaq\.com
-# Tapjoy
-tapjoy\.com|tapjoyads\.com|www\.5rocks\.io
-# Taplytics
-api\.taplytics\.com|ping\.tapylitics\.com
-# Tappx
-# Tapstream
-# Teads
+tapjoy\.com
+tapjoyads\.com
+www\.5rocks\.io
+api\.taplytics\.com
+ping\.tapylitics\.com
 teads\.tv
-# Tealeaf
-# Tealium
-tealiumiq\.com|tiqcdn\.com
-# Teemo
+tealiumiq\.com
+tiqcdn\.com
 databerries\.com
-# Telaria (Tremor Video SDK)
-# TeleQuid
 mars\.telequid\.com
-# Teliver
-# Tencent MTA
-# Tencent Map LBS
-# Tencent MobWin
-# Tencent QQ SDK
-# Tencent Stats
-# Tencent TDA
 \.tdm\.qq\.com
-# Tencent Wechat SDK
-# Tencent Weiyun
-# Tenjin
-# TheoremReach
-# ThinkingData Analytics
-# TikTok SDK
-# Tinder Analytics
 etl\.tindersparks\.com
-# TogetherAd
-# TradPlus
-# Treasure Data
-# Trillbit
 api\.trillbit\.com
-# TripleLift
 3lift\.com
-# Tune
 mobileapptracking\.com
-# Tutela
-# Tutucloud
 tusdk\.com
-# Twine Data
-# Twitter MoPub
 mopub\.com
-# Twitter ads
-# UCWeb UC Ads
-# UXCam
-# Uber Analytics
 events\.uber\.com
-# Ultimedia
 ultimedia\.com
-# Umeng Analytics
-alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com
-# Umeng Common SDK logging
-plbslog\.umeng\.com|ouplog\.umeng\.com|cmnsguider\.yunos\.com|ulogs\.umeng\.com|alogsus\.umeng\.com|ulogs\.umengcloud\.com
-# Umeng Feedback
-alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com
-# Umeng Mobile tracking SDK
-# Umeng Push SDK
-100\.69\.165\.28|100\.69\.168\.33|110\.75\.98\.154|106\.11\.61\.135|106\.11\.61\.137|agoodm\.m\.taobao\.com|agoodm\.wapa\.taobao\.com|amdcopen\.m\.taobao\.com|amdc\.wapa\.taobao\.com|amdc\.taobao\.net|umengacs\.m\.taobao\.com|umengjmacs\.m\.taobao\.com
-# Unacast Pure
-# Unity3d Ads
-adserver\.unityads\.unity3d\.com|analytics\.social\.unity\.com|api\.uca\.cloud\.unity3d\.com|auction\.unityads\.unity3d\.com|cdn-highwinds\.unityads\.unity3d\.com|cdn\.unityads\.unity3d\.com|config\.uca\.cloud\.unity3d\.com|config\.unityads\.unity3d\.com|stats\.unity3d\.com|webview\.unityads\.unity3d\.com
-# Unknown Trackers
-# Upsight
-# Urbanairship
-device-api\.urbanairship\.com|urbanairship\.com
-# Usabilla by Salesforce
-# UserExperior
-# VKontakte SDK
-# VServ
-# Vdopia
-# Vectaury
+alog\.umeng\.com
+alogs\.umeng\.com
+ar\.umeng\.com
+oc\.umeng\.com
+umeng\.com
+uop\.umeng\.com
+plbslog\.umeng\.com
+ouplog\.umeng\.com
+cmnsguider\.yunos\.com
+ulogs\.umeng\.com
+alogsus\.umeng\.com
+ulogs\.umengcloud\.com
+alog\.umeng\.com
+alogs\.umeng\.com
+ar\.umeng\.com
+oc\.umeng\.com
+umeng\.com
+uop\.umeng\.com
+100\.69\.165\.28
+100\.69\.168\.33
+110\.75\.98\.154
+106\.11\.61\.135
+106\.11\.61\.137
+agoodm\.m\.taobao\.com
+agoodm\.wapa\.taobao\.com
+amdcopen\.m\.taobao\.com
+amdc\.wapa\.taobao\.com
+amdc\.taobao\.net
+umengacs\.m\.taobao\.com
+umengjmacs\.m\.taobao\.com
+adserver\.unityads\.unity3d\.com
+analytics\.social\.unity\.com
+api\.uca\.cloud\.unity3d\.com
+auction\.unityads\.unity3d\.com
+cdn-highwinds\.unityads\.unity3d\.com
+cdn\.unityads\.unity3d\.com
+config\.uca\.cloud\.unity3d\.com
+config\.unityads\.unity3d\.com
+stats\.unity3d\.com
+webview\.unityads\.unity3d\.com
+device-api\.urbanairship\.com
+urbanairship\.com
 vectaury\.io
-# Veloxity
-# Venntel
-# Verizon Ads
-# Verve
-# Viewpoint Analytics
-# Virgo Mobile
-# Vivo Push SDK
-# Vodafone NetPerform
-# Vpon
-# Vungle
-ads\.api\.vungle\.com|akamai\.vungle\-cdn\.vungle\.com|api\.vungle\.akadns\.net|api\.vungle\.com|bd\.vungle\.com|billboard\.vungle\.com|cdn\-lb\.vungle\.com|ci\.vungle\.com|data\.vungle\.com|ingest\.vungle\.com|jaeger\.vungle\.com|ltv\-data\-api\.kube\-prod\.vungle\.com|monitoring\.vungle\.com|ssl\.vungle\.com|v\.vungle\.com
-# WalkMe/Abbi.io
-# Wannads
-# WapStart.Plus1
-# WeChat Location
+ads\.api\.vungle\.com
+akamai\.vungle\-cdn\.vungle\.com
+api\.vungle\.akadns\.net
+api\.vungle\.com
+bd\.vungle\.com
+billboard\.vungle\.com
+cdn\-lb\.vungle\.com
+ci\.vungle\.com
+data\.vungle\.com
+ingest\.vungle\.com
+jaeger\.vungle\.com
+ltv\-data\-api\.kube\-prod\.vungle\.com
+monitoring\.vungle\.com
+ssl\.vungle\.com
+v\.vungle\.com
 map\.qq\.com
-# Weborama
-weborama\.fr|weborama\.net
-# Webtrekk
-# Webtrends
-dc\.webtrends\.com|webtrends\.com
-# Weibo DeviceID
-# Widespace
+weborama\.fr
+weborama\.net
+dc\.webtrends\.com
+webtrends\.com
 widespace\.com
-# WonderPush
 api.wonderpush.com
-# Woopra
-# Woorlds
-# Wootric
-.wootric\.com\.herokudns\.com|wootric\.com
-# X-Mode
-api\.myendpoint\.io|bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com|api\.smartechmetrics\.com
-# Xiaomi Push Service
-app\.chat\.xiaomi\.net|42\.62\.94\.2|114\.54\.23\.2|111\.13\.142\.2|111\.206\.200\.2
-# Xiti
-# YOC VIS.X
-yoc-performance\.com|yoc\.com
-# Yahoo!Japan DataShare
-# Yandex Ad
-analytics\.mobile\.yandex\.net|appmetrica\.yandex\.com|banners-slb\.mobile\.yandex\.net|banners\.mobile\.yandex\.net|mc\.yandex\.ru|report\.appmetrica\.yandex\.net|startup\.mobile\.yandex\.net
-# Yext
-# Yinzcam Sobek
+.wootric\.com\.herokudns\.com
+wootric\.com
+api\.myendpoint\.io
+bin5y4muil\.execute-api\.us-east-1\.amazonaws\.com
+api\.smartechmetrics\.com
+app\.chat\.xiaomi\.net
+42\.62\.94\.2
+114\.54\.23\.2
+111\.13\.142\.2
+111\.206\.200\.2
+yoc-performance\.com
+yoc\.com
+analytics\.mobile\.yandex\.net
+appmetrica\.yandex\.com
+banners-slb\.mobile\.yandex\.net
+banners\.mobile\.yandex\.net
+mc\.yandex\.ru
+report\.appmetrica\.yandex\.net
+startup\.mobile\.yandex\.net
 analytics\.yinzcam\.com
-# Yoadx
-# YouAppi
-# Yougoodtech
-# Youmi
-aos\.wall\.youmi\.net|au\.youmi\.net|youmi\.net
-# YuMe
-# Zapr
+aos\.wall\.youmi\.net
+au\.youmi\.net
+youmi\.net
 .zapr\.in
-# Zendesk
-# Zendrive
-# Zenjoy
-# Zoho Analytics
-# Zucks
 zucks\.net
-# adPOPcorn
-# adboost
-# appPlant
-# appTV
-# appgeneration
-# ayeT-Studios
-# beaconstac/NearBee (MobStac Inc.)
-# buddybuild
-# deltaDNA
 deltadna\.net
-# deploygate
-# devtodev
-# fineboost
-# flymob
-# froger_mcs
-# fullstory
-# iridge popinfo
-# ironSource
-# mParticle
 mparticle\.com
-# mTraction (mFaaS)
-# maio by i-mobile
-# mediba
-# mobilda (Mars Media Group)
-# myTarget
 .target\.my\.com
-# myTracker
 tracker-api\.my\.com
-# nend
-# netmera
-# permutive
-# pinable
-# tabtale

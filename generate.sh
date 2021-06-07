@@ -6,19 +6,12 @@ NO_COMMENT_PATH=./list/exodus-pihole.no-comment.txt
 
 echo "# Generated on `date +'%D %T'`" > $OUTPUT_PATH
 
-curl -s $TRACKER_LIST_URL | jq '.trackers[]' -c | while IFS= read -r tracker
+curl -s $TRACKER_LIST_URL | jq '.trackers[].network_signature' -cr | sed 's/|/\n/g' | while read -r domain
 do
-	name=`echo $tracker | jq '.name' -r`
-        echo $name
-	echo "# $name" >> $OUTPUT_PATH
-
-	rule=`IFS=';' echo $tracker | jq '.network_signature' -r`
-        if [[ $rule = "" ]]
+        if [[ $domain = "" ]]
         then
                 continue
         fi
-        echo $rule 
-        echo $rule >> $OUTPUT_PATH
+        echo $domain
+        echo $domain >> $OUTPUT_PATH
 done
-
-cat $OUTPUT_PATH | grep -v "#" > $NO_COMMENT_PATH
