@@ -85,6 +85,7 @@ criteo\.com
 api\.crowdtangle\.com
 cuebiq\.com
 \.dov-e\.com
+rum-http-intake.logs.datadoghq.com,mobile-http-intake.logs.datadoghq.com,public-trace-http-intake.logs.datadoghq.com
 adotsolution\.com|click\.dawin\.tv
 demdex\.net
 display.io
