@@ -222,6 +222,7 @@ pyze\.com
 qualtrics\.com
 quantcast\.com|quantcast\.net
 proximitykit\.radiusnetworks\.com
+.*\.revenuecat\.com
 app\.roximity\.com
 ads\.rubiconproject\.com|fastlane\.rubiconproject\.com|optimized-by\.rubiconproject\.com|pixel\.rubiconproject\.com|stats\.aws\.rubiconproject\.com|tap2-cdn\.rubiconproject\.com|video-ads\.rubiconproject\.com
 s4m\.io|sam4m\.com
@@ -270,6 +271,7 @@ api\.trillbit\.com
 mobileapptracking\.com
 tusdk\.com
 mopub\.com
+verify.uxcam.com
 events\.uber\.com
 ultimedia\.com
 alog\.umeng\.com|alogs\.umeng\.com|ar\.umeng\.com|oc\.umeng\.com|umeng\.com|uop\.umeng\.com
