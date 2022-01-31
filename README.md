@@ -14,8 +14,6 @@ Probably whenever I remember to do so. I might set up a script to automate it.
 
 This list might break stuff for you. For example, `facebook.com` is in it more than once. You should allowlist any domains you want to keep, or clone the project and tailor it to your needs.
 
-Also, if you want to run this on your own machine feel more than free to do so... just keep that `sleep 1` call in the script. Don't be a jerk to Exodus-Privacy by slamming their servers.
-
 ## How do I use it?
 
 The easiest way to add these regexes to your Pi-Hole is by running a script like so:

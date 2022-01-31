@@ -1,17 +1,29 @@
 #!/bin/bash
 
-TRACKER_LIST_URL=https://etip.exodus-privacy.eu.org/trackers/export
+TRACKER_LIST_URL=https://reports.exodus-privacy.eu.org/api/trackers
+TRACKER_LIST_ETIP_URL=https://etip.exodus-privacy.eu.org/trackers/export
 OUTPUT_PATH=./list/exodus-pihole.txt
-NO_COMMENT_PATH=./list/exodus-pihole.no-comment.txt
+OUTPUT_ETIP_PATH=./list/exodus-pihole-etip.txt
 
-rm $OUTPUT_PATH
+function parse_exodus_list {
+    url=$1
+    output_path=$2
 
-curl -s $TRACKER_LIST_URL | jq '.trackers[].network_signature' -cr | while read -r domain
-do
-        if [[ $domain = "" ]]
-        then
-                continue
-        fi
-        echo $domain
-        echo $domain >> $OUTPUT_PATH
-done
+    echo "Generating list for URL [$url] and saving in [$output_path]..."
+
+    rm $output_path
+
+    curl -s $url | jq '.trackers[].network_signature' -cr | while read -r domain
+    do
+            if [[ $domain = "" ]]
+            then
+                    continue
+            fi
+            echo $domain >> $output_path
+    done
+
+    echo "Done! Fetched `wc -l < $output_path` domains from source."
+}
+
+parse_exodus_list $TRACKER_LIST_URL $OUTPUT_PATH
+parse_exodus_list $TRACKER_LIST_ETIP_URL $OUTPUT_ETIP_PATH
