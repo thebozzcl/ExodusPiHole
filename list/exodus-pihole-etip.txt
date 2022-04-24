@@ -84,7 +84,7 @@ criteo\.com
 api\.crowdtangle\.com
 cuebiq\.com
 \.dov-e\.com
-rum-http-intake.logs.datadoghq.com,mobile-http-intake.logs.datadoghq.com,public-trace-http-intake.logs.datadoghq.com
+rum-http-intake.logs.datadoghq.com|mobile-http-intake.logs.datadoghq.com|public-trace-http-intake.logs.datadoghq.com
 adotsolution\.com|click\.dawin\.tv
 demdex\.net
 display.io
@@ -178,7 +178,7 @@ dispatcher\.mng\-ads\.com|mobile\.mng\-ads\.com
 ads\.mdotm\.com
 api-device\.mocaplatform\.com
 a\.tiles\.mapbox\.com|api\.tiles\.mapbox\.com
-marketo\.com|marketo\.net|mktoedge\.com|mktossl\.com
+marketo\.com|marketo\.net|mktoedge\.com|mktossl\.com|\.mktorest\.com
 matomo\.org
 pixel.mathtag.com
 adtech\.de|contextual\.media\.net|media\.net|millennialmedia\.com

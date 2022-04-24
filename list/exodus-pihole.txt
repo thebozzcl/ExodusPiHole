@@ -184,6 +184,7 @@ teads\.tv
 inlocomedia\.com
 .wootric\.com\.herokudns\.com|wootric\.com
 ads\.pubmatic\.com|aktrack\.pubmatic\.com|gads\.pubmatic\.com|image2\.pubmatic\.com|simage2\.pubmatic\.com
+verify.uxcam.com
 appcelerator\.com|appcelerator\.net
 ad-brix\.com
 ad\.cauly\.co\.kr
@@ -250,3 +251,6 @@ cedexis\-radar\.net|cedexis\.com|radar\.cedexis\.com
 \.tele\.fm
 cdn-api\.swirl\.com
 sdk6\.ibm\.xtify\.com
+marketo\.com|marketo\.net|mktoedge\.com|mktossl\.com|\.mktorest\.com
+synerise\.com
+tusdk\.com
