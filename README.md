@@ -14,7 +14,7 @@ Probably whenever I remember to do so. I might set up a script to automate it.
 
 ## Before you use it
 
-This list might break stuff for you. For example, `facebook.com` is in it more than once. You should allowlist any domains you want to keep, or clone the project and tailor it to your needs.
+This list might break stuff for you. For example, `.facebook.com` is in it more than once. You should allowlist any domains you want to keep, or clone the project and tailor it to your needs.
 
 Please note that the Pi-Hole bash commands don't like the longer regexes and fail to process them. You'll need to add those manually using the GUI. I haven't figured out a workaround yet.
 
