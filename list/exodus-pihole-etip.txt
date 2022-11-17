@@ -40,6 +40,7 @@ adlibr\.com
 adm\.dynamicyield\.com
 .*\.admitad.com
 admixer\.co\.kr
+admixer\.net
 adnxs\.com
 adotsolution\.com
 adproxy\.fyber\.com
@@ -49,7 +50,10 @@ ads\.aerserv\.com
 adsafeprotected\.com
 ads\.api\.vungle\.com
 adserver\.unityads\.unity3d\.com
+adservice\.g\.cn
+adservice\.google\..*
 ads\.glispa\.com
+ads\.google\.com
 ads\.heyzap\.com
 ads\.mdotm\.com
 ads\.mobclix\.com
@@ -149,6 +153,7 @@ appcelerator\.com
 appcelerator\.net
 app\.chat\.xiaomi\.net
 app-config\.enhance\.co
+appdynamics\.com
 appengage-video\.fyber\.com
 appengage-video\.sponsorpay\.com
 appload\.ingest\.crittercism\.com
@@ -231,7 +236,6 @@ cloud\.xdrig\.com
 cmcm\.com
 cmnsguider\.yunos\.com
 colocator\.net
-com.gad.sdk.
 \.commander1\.com
 comscore\.com
 config\.inmobi\.com
@@ -249,11 +253,16 @@ cuebiq\.com
 c\.w\.inmobi\.com
 cws\.conviva\.com
 cx\.ssacdn\.com
+data.\altbeacon\.org
 databerries\.com
 data\.de\.coremetrics\.com
 data-location\.enhance\.co
 data\.mobclix\.com
 data\.vungle\.com
+david\.gigya-cs\.com
+dbankcloud\.cn
+dbankcloud\.com
+dbankcloud\.ru
 dc\.webtrends\.com
 de01\.rayjump\.com
 debug\.aerserv\.com
@@ -266,6 +275,7 @@ de\.rayjump\.com
 detect\.rayjump\.com
 dev-api\.persona\.ly
 dev\.dsp\.persona\.ly
+device-api\.asnapieu\.com
 device-api\.urbanairship\.com
 devices\.carnivalmobile\.com
 dev\.persona\.ly
@@ -296,6 +306,7 @@ e-ssl\.apsalar\.com
 etl\.tindersparks\.com
 et\.w\.inmobi\.com
 eulerian\.com
+eum-appdynamics\.com
 events3alt\.adcolony\.com
 event.split.io
 events\.startappservice\.com
@@ -308,6 +319,7 @@ fastlane\.rubiconproject\.com
 fidzup
 files\.adform\.net
 firebase\.com
+firebaselogging-pa\.googleapis\.com
 fk-mtrack\.rayjump\.com
 flurry\.com
 foresee\.com
@@ -326,8 +338,12 @@ g\.jwpsrv\.com
 .*\.glassboxdigital\.io
 \.glympse\.com
 go\.admost\.com
+go\.link
+googleadservices\.com
+googleads\.g\.doubleclick\.net
 google-analytics\.com
 \.google\.com
+googlesyndication\.com
 graph\.accountkit\.com
 grid\.amap\.com
 guide-acs\.m\.taobao\.com
@@ -335,6 +351,7 @@ gw\.alicdn\.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 heapanalytics.com
 helpshift\.com
+hicloud\.com
 hockeyapp\.net
 houndify\.com
 httpdns-sc\.aliyuncs\.com
@@ -439,6 +456,7 @@ mng-ads\.com
 mns\..*\.aliyuncs\.com
 moat\.com
 mobclix\.com
+mobileads\.google\.com
 mobileanalytics\.us-east-1\.amazonaws\.com
 mobileapptracking\.com
 mobile-collector\.newrelic\.com
@@ -476,6 +494,7 @@ openx\.com
 openx\.net
 openx\.org
 optimized-by\.rubiconproject\.com
+optimizelyapis\.com
 optimizely\.com
 ossgw\.alicdn\.com
 ouplog\.umeng\.com
@@ -492,6 +511,7 @@ pixel\.rubiconproject\.com
 pixel\.tapad\.com
 pixel-tracking\.sonic-us\.supersonicads\.com
 p\.jwpcdn\.com
+play\.google\.com
 plbslog\.umeng\.com
 .prebid.org
 presage\.io
@@ -667,6 +687,7 @@ ws\.findgravy\.com
 ws\.otherlevels\.com
 www\.5rocks\.io
 www\.googletagmanager\.com
+www-googletagmanager\.l\.google\.com
 www\.googletagservices\.com
 www\.supersonicads\.com
 wzrkt\.com
